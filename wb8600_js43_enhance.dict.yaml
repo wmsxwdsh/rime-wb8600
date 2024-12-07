@@ -45,16 +45,18 @@ sort: by_weight
 # 增加 ittj 「活得」
 # 增加 wxyl 「华为」
 # 增加 ahut 「牙疼」「雅阁」
-# 增加 ghth 「丐版」
-# 增加 otkg 「炸号」
 # 增加 btkk 「降噪」
+# 增加 qvqt 「银狐」
+# 增加 ssad 「柯基」
 # 增加 xxce 「比熊」
 # 增加 tftr 「德牧」
 # 增加 qtee 「獬豸」，中国传说中的神兽。
 # 增加 qtdx 「独龙」，恐龙的一种。
 # 增加 khaf 「蹴鞠」
 # 增加 eptj 「爱得」
-# 增加 ssad 「柯基」
+# 增加 ghth 「丐版」
+# 增加 otkg 「炸号」
+# 增加 puqt 「实锤」
 # 增加 rute 「接盘」「撞船」
 # 增加 rrqt 「白猫」「白狐」
 # 增加 egwy 「悬停」「县令」
@@ -64,7 +66,6 @@ sort: by_weight
 # 增加 fqdg 「无感」
 # 增加 wgwy 「合集」
 # 增加 lfqt 「黑猫」
-# 增加 qvqt 「银狐」
 # 增加 pfud 「冠状」，冠状病毒
 # 增加 pgyy 「宇文」，复姓之一
 # 增加 rrtm 「打气筒」
@@ -75,7 +76,7 @@ sort: by_weight
 # 增加 ofqn 「烤馕」
 # 增加 lgbw 「车险」
 # 增加 lgdc 「车友」
-# 增加 temm 「盘山」，天津的名山，乾隆曾说：早知有盘山，何必下江南。
+# 增加 temm 「盘山」，天津的名山。
 # 增加 iyfc 「渡劫」
 # 增加 iifa 「水塔」
 # 增加 yaah 「谋臣」
@@ -173,6 +174,7 @@ sort: by_weight
 # 增加 mdef 「崴脚」
 # 增加 mmrg 「山丘」
 # 增加 dgfh 「咸盐」
+# 增加 yssh 「麻椒」
 # 增加 oiqn 「炒饼」
 # 增加 odny 「烦心」
 # 增加 wyrl 「停摆」
@@ -204,6 +206,7 @@ sort: by_weight
 #（1）调频 nygc 「迟到」>「以致」「以至」
 #（2）「以」是一简，一般人不习惯打「以」开头的词语，故调到后面。
 # 增加 ntbb 「虱子」
+# 增加 lwlg 「囹圄」
 # 增加 iyfp 「流过」
 # 增加 iygf 「游于」
 # 增加 jcpu 「紧实」
@@ -213,14 +216,16 @@ sort: by_weight
 # 增加 nute 「飞艇」「飞盘」
 # 增加 hhrk 「止损」「卡扣」
 # 增加 fhtf 「真行」「直行」
+# 增加 ajqg 「草鱼」「蓝鲸」
 # 增加 qqud 「钦差」
 # 增加 nyyn 「心盲」
+# 增加 rciq 「挨光」
 # 增加 ugsv 「辣根」
 # 增加 jgjg 「旺旺」
 # 增加 jojy 「蝼蚁」
 # 增加 iscn 「河马」
 #（1）增加 qsya 「锡林郭勒」，内蒙古的地级行政。
-#（2）删除 qsya 「弒」，「弑」的繁体字，容易引起误会，故删除。
+#（2）删除 qsya 「弒」，「弑」的繁体字，太不常用了。
 # 增加 rfgu 「抚平」
 # 增加 khah 「呲牙」
 # 增加 khsr 「踏板」
@@ -232,6 +237,9 @@ sort: by_weight
 # 增加 pepe 「家家」「宜家」
 # 增加 putm 「补射」
 # 增加 puwg 「补全」
+# 增加 pwlf 「空转」
+# 增加 udsw 「头槌」
+# 增加 rjyn 「拽词」
 # 增加 fuwf 「幸会」
 # 增加 pwgk 「穷逼」
 #（1）调频 nttf 「改造」>「履行」>「发行」
@@ -270,6 +278,7 @@ sort: by_weight
 # 删除 qgqb 「」，扩展A U+4C9F
 # 增加 qnqn 「馅饼」
 # 增加 qqak 「金匮」
+# 增加 ajsg 「草酸」
 # 增加 swbb 「橙子」
 # 增加 rdqs 「捧杀」
 # 增加 qkst 「够格」
@@ -361,6 +370,7 @@ sort: by_weight
 # 增加 tcyn 「长颈鹿」
 # 增加 sstt 「酸酸甜甜」，删除「木笔」，毛笔的旧称，太不常用了。
 # 增加 ssyg 「禁语」
+# 增加 ynkh 「扇嘴」
 # 增加 tmah 「微臣」
 #（1）增加 ssyt 「郴州」，chēn，湖南省下辖的地级市。
 #（2）增加 ssyt 「彬州」，陕西省下辖的县级市，由咸阳代管。
@@ -369,6 +379,7 @@ sort: by_weight
 # 增加 wtvt 「作妖」
 # 增加 gmia 「丽江」
 # 增加 tfwg 「行伍」，泛指军队，古代五人为伍，二十五人为行。
+# 增加 ttvn 「竹鼠」，一种吃竹子的鼠，广西一带有饲养，可以食用。
 # 增加 cbqd 「柔然」
 # 增加 veqt 「奶狗」
 # 增加 tfyu 「靠谱」
@@ -376,7 +387,6 @@ sort: by_weight
 # 增加 tgwh 「每一个」
 # 增加 tgyw 「生卒」
 # 增加 tqwy 「移住」
-# 增加 ttvn 「竹鼠」，一种吃竹子的鼠，广西一带有饲养，可以食用。
 # 增加 twwg 「黏合」
 # 增加 udtl 「养血」
 # 增加 udtf 「羊毛」「叛徒」「善待」
@@ -816,6 +826,7 @@ sort: by_weight
 # >>> 极点五笔里，ia、iag 都是「江」，只有 iagw 是「满」
 # 增加减码提前出字  ia 「满」，二简二重「江」「满」
 # 增加减码提前出字  iag「满」，三简二重「江」「满」
+# >>> 另外，删除 fcu 支、dnv 尢，减少造成干扰。
 # 
 # ------------------------------------------
 # special update
@@ -2677,6 +2688,8 @@ sort: by_weight
 暮色	ajqc	9900
 蓦然	ajqd	10000
 鹊	ajqg	10000
+草鱼	ajqg	9769
+蓝鲸	ajqg	9311
 莫尔	ajqi	10000
 莫名	ajqk	10000
 慕名	ajqk	9900
@@ -2697,6 +2710,7 @@ sort: by_weight
 草标	ajsf	10000
 蓝本	ajsg	10000
 草本	ajsg	9900
+草酸	ajsg	8612
 苹果机	ajsm	10000
 草棉	ajsr	10000
 草木	ajss	10000
@@ -11609,7 +11623,7 @@ sort: by_weight
 成立	dnuu	10000
 万	dnv	10000
 尤	dnv	9900
-尢	dnv	9800
+# 尢	dnv	9800
 盛怒	dnvc	10000
 尤如	dnvk	10000
 成婚	dnvq	10000
@@ -15569,7 +15583,7 @@ sort: by_weight
 运往	fcty	10000
 去	fcu	10000
 云	fcu	9900
-支	fcu	9800
+# 支	fcu	9800
 运送	fcud	10000
 支前	fcue	10000
 运单	fcuj	10000
@@ -39662,6 +39676,7 @@ sort: by_weight
 轮距	lwkh	10000
 轮唱	lwkj	10000
 办置	lwlf	10000
+囹圄	lwlg	10717
 囚车	lwlg	10000
 轮回	lwlk	10000
 轮轴	lwlm	10000
@@ -49283,6 +49298,7 @@ sort: by_weight
 被杀	puqs	10000
 宰杀	puqs	9900
 初犯	puqt	10000
+实锤	puqt	9216
 袀	puqu	888
 褶皱	puqv	10000
 袛	puqy	888
@@ -49749,6 +49765,7 @@ sort: by_weight
 穷	pwlb	10000
 突围	pwlf	10000
 空置	pwlf	9900
+空转	pwlf	8558
 穷国	pwlg	10000
 穷困	pwls	10000
 窶	pwlv	888
@@ -55616,6 +55633,7 @@ sort: by_weight
 反水	rcii	10000
 反常	rcip	10000
 反光	rciq	10000
+挨光	rciq	8937
 反派	rcir	10648
 摊派	rcir	10000
 反对派	rcir	9900
@@ -57288,6 +57306,7 @@ sort: by_weight
 撔	rjyi	888
 提高	rjym	10000
 提讯	rjyn	10000
+拽词	rjyn	9823
 揭底	rjyq	10000
 提议	rjyy	10000
 扣	rk	10000
@@ -70421,6 +70440,7 @@ sort: by_weight
 桊	udsu	10000
 善根	udsv	10000
 送检	udsw	10000
+头槌	udsw	9837
 拳术	udsy	10000
 叛乱	udtd	10000
 减租	udte	10000
@@ -86439,6 +86459,7 @@ sort: by_weight
 记号	ynkg	10000
 讯号	ynkg	9900
 翩跹	ynkh	10000
+扇嘴	ynkh	8872
 户口	ynkk	10000
 废品	ynkk	9900
 永别	ynkl	10000
@@ -87382,6 +87403,7 @@ sort: by_weight
 订票	yssf	10000
 塺	yssf	888
 麻醉	yssg	10000
+麻椒	yssh	9352
 犘	yssh	888
 麻	yssi	10000
 縻	yssi	9900
