@@ -1,6 +1,6 @@
 # utf-8
 ---
-name: wb8600_ext
+name: wb8600_extend
 note: "五笔拓展词库"
 version: "2024-12-03"
 sort: by_weight
