@@ -63,6 +63,7 @@ sort: by_weight
 # 增加 pgyy 「宇文」，复姓之一
 # 增加 rrtm 「打气筒」
 # 增加 gcbi 「亚马逊」
+# 增加 gutm 「下半身」
 # 增加 rtef 「手肘」
 # 增加 itvb 「活好」
 # 增加 lgdc 「车友」
@@ -71,9 +72,12 @@ sort: by_weight
 # 增加 iyfc 「渡劫」
 # 增加 iifa 「水塔」
 # 增加 yaah 「谋臣」
+# 增加 fqiq 「远光」
 # 增加 iyfh 「游走」「流走」「梁启超」
 # 增加 jqwf 「歇会」
 # 增加 jtad 「临期」
+# 增加 rpux 「皖北」
+# 增加 rpkh 「皖中」
 # 增加 tggd 「每一天」
 # 增加 tghi 「每一步」，词频「第一步」>「每一步」
 # 增加 tgty 「生稿」，打字圈这么说，录入之前没有见过的稿子。
@@ -127,6 +131,7 @@ sort: by_weight
 # 增加 uytf 「闵行」háng，上海市下辖的一个区。
 # 增加 lksu 「驾校」
 # 增加 lqwx 「鸭货」
+# 增加 isuj 「湘赣」
 # 增加 lwyg 「暂住证」
 # 增加 xttm 「比特币」
 # 增加 rnfq 「拓展坞」，删除「所无」，没用这个词语。
@@ -136,9 +141,12 @@ sort: by_weight
 # 增加 mdef 「崴脚」
 # 增加 mmrg 「山丘」
 # 增加 tdhw 「智齿」
-# 增加 msyg 「岑楼齐末」
+# 增加 tfaq 「告警」
+# 增加 qeff 「解封」
 # 增加 wnnn 「人心惶惶」
 # 增加 trfa 「逢年过节」
+# 增加 msyg 「岑楼齐末」
+# 增加 ggwr 「天不假年」
 # 增加 islk 「酒驾」，删除「添枝加叶」，现在一般说「添油加醋」。
 # 增加 epud 「爱着」
 # 增加 myyn 「贬义词」
@@ -148,8 +156,8 @@ sort: by_weight
 # 增加 rhio 「看淡」
 # 增加 gard 「开拔」
 # 增加 rigk 「挑事」
-# 增加 kwmq 「呼伦贝尔」，内蒙古的地级市。
-# 增加 nuiq 「巴彦淖尔」nào，内蒙古的地级市。
+# 增加 kwmq 「呼伦贝尔」，内蒙古下辖的地级市。
+# 增加 nuiq 「巴彦淖尔」nào，内蒙古下辖的地级市。
 # 增加 nfyn 「导盲」
 # 增加 nlny 「愣神」
 # 增加 khbb 「遗子」
@@ -169,6 +177,7 @@ sort: by_weight
 # 增加 qqud 「钦差」
 # 增加 jgjg 「旺旺」
 # 增加 jojy 「蝼蚁」
+# 增加 iscn 「河马」
 #（1）增加 qsya 「锡林郭勒」，内蒙古的地级行政。
 #（2）删除 qsya 「弒」，「弑」的繁体字，容易引起误会，故删除。
 # 增加 rdtt 「失而复得」
@@ -280,6 +289,7 @@ sort: by_weight
 # 增加 shfh 「椒盐」
 # 增加 wxqe 「倾角」
 # 增加 spsy 「棺椁」
+# 增加 lgta 「车筐」
 # 增加 ugxw 「姜维」，三国时期蜀国的军事家。
 # 增加 cnyl 「马谡」，诸葛亮挥泪斩马谡。
 # 增加 ymiw 「高澄」，南北朝高欢的长子、兰陵王的父亲。
@@ -297,6 +307,7 @@ sort: by_weight
 # 增加 gmia 「丽江」
 # 增加 tfwg 「行伍」，泛指军队，古代五人为伍，二十五人为行。
 # 增加 cbqd 「柔然」
+# 增加 veqt 「奶狗」
 # 增加 tfyu 「靠谱」
 # 增加 tgwh 「每一个」
 # 增加 tgyw 「生卒」
@@ -358,6 +369,7 @@ sort: by_weight
 # 增加 yabb 「庶子」
 # 增加 yftk 「计程」
 # 增加 yiuy 「广渠门」，北京的外城七门之一。
+# 增加 tvtf 「簋街」，北京比较出名的一条大街。
 # 增加 wylu 「焦圈」，北京的知名小吃。
 # 增加 gkif 「豆汁」，北京的知名小吃。
 # 增加 ygbk 「说不出口」
@@ -18197,6 +18209,7 @@ sort: by_weight
 远涉	fqih	10000
 无常	fqip	10000
 无光	fqiq	10000
+远光	fqiq	9744
 顽劣	fqit	10000
 远洋	fqiu	10000
 远游	fqiy	10000
@@ -20938,6 +20951,7 @@ sort: by_weight
 一伙	ggwo	10000
 王爷	ggwq	10000
 一件	ggwr	10000
+天不假年	ggwr	8713
 一体	ggws	10000
 王八	ggwt	10000
 一位	ggwu	10000
@@ -23718,6 +23732,7 @@ sort: by_weight
 平衍	guti	10000
 平利	gutj	10000
 平和	gutk	10000
+下半身	gutm	10562
 平躺	gutm	10000
 整装待发	gutn	10000
 平衡	gutq	10000
@@ -29689,6 +29704,7 @@ sort: by_weight
 酒酣耳热	isbr	10000
 浮想联翩	isby	10000
 淋巴	iscn	10000
+河马	iscn	9546
 酒友	isdc	10000
 酒厂	isdg	10000
 洛杉矶	isdm	10000
@@ -29841,6 +29857,7 @@ sort: by_weight
 酒瘾	isub	10000
 淋病	isug	10000
 酒意	isuj	10000
+湘赣	isuj	9544
 河闸	isul	10000
 酒疯	isum	10000
 当机立断	isuo	10000
@@ -38068,6 +38085,7 @@ sort: by_weight
 车检	lgsw	10000
 国术	lgsy	10000
 车长	lgta	10000
+车筐	lgta	8998
 国籍	lgtd	10000
 车船	lgte	10000
 车行	lgtf	10000
@@ -50749,6 +50767,7 @@ sort: by_weight
 触动	qefc	10000
 锾	qefc	9900
 鍰	qefc	888
+解封	qeff	9233
 觟	qeff	888
 解救	qefi	10000
 触雷	qefl	10000
@@ -58075,6 +58094,7 @@ sort: by_weight
 近	rpk	10000
 探路	rpkh	10000
 近路	rpkh	9900
+皖中	rpkh	9562
 挥别	rpkl	10000
 打字员	rpkm	10000
 探听	rpkr	10000
@@ -58174,6 +58194,7 @@ sort: by_weight
 近道	rput	10000
 擦痕	rpuv	10000
 擦背	rpux	10000
+皖北	rpux	8273
 按	rpv	10000
 探寻	rpvf	10000
 按	rpvg	10000
@@ -65211,6 +65232,7 @@ sort: by_weight
 徒劳	tfap	10000
 街区	tfaq	10000
 选区	tfaq	9900
+告警	tfaq	9384
 丢魂落魄	tfar	10000
 行医	tfat	10000
 造孽	tfaw	10000
@@ -69033,6 +69055,7 @@ sort: by_weight
 笋	tvt	10000
 很长	tvta	10000
 逶迤	tvtb	10000
+簋街	tvtf	10764
 自毁长城	tvtf	10000
 魏征	tvtg	10000
 委身	tvtm	10000
@@ -74439,6 +74462,7 @@ sort: by_weight
 嬡	vept	888
 退钱	veqg	10000
 奶名	veqk	10000
+奶狗	veqt	10939
 姐儿	veqt	10000
 退后	verg	10000
 退兵	verg	9900
