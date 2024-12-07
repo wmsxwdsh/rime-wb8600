@@ -72,6 +72,7 @@ sort: by_weight
 # 增加 gutm 「下半身」
 # 增加 rtef 「手肘」
 # 增加 itvb 「活好」
+# 增加 ofqn 「烤馕」
 # 增加 lgbw 「车险」
 # 增加 lgdc 「车友」
 # 增加 temm 「盘山」，天津的名山，乾隆曾说：早知有盘山，何必下江南。
@@ -90,6 +91,7 @@ sort: by_weight
 # 增加 ybty 「熟稿」
 # 增加 ajud 「蓝翔」
 # 增加 lwim 「轮滑」
+# 增加 mgws 「赋体」
 # 增加 ftus 「雾凇」
 # 增加 jvwy 「归集」「昭仪」，昭仪是古代嫔妃的封号。
 # 增加 kbkb 「咄咄」
@@ -107,6 +109,7 @@ sort: by_weight
 # 删除 fuyu 「赱」，「走」的异体字，太不常用了。
 # 增加 fttd 「教籍」
 # 增加 fqsk 「无可」
+# 增加 tfsm 「街机」
 # 增加 ysiq 「麻溜」
 # 增加 lqys 「软磨」
 # 增加 itut 「省道」
@@ -116,6 +119,7 @@ sort: by_weight
 # 增加 ypyt 「亳州」bó，安徽省下辖的地级市。
 # 增加 aiap 「东营」，山东省下辖的地级市。
 # 增加 ipyt 「滨州」，山东省下辖的地级市。
+# 增加 kwkr 「哈啤」，哈尔滨啤酒的简称。
 # 增加 eplt 「腕力」
 # 增加 epiy 「脓液」
 # 增加 epfp 「爱过」
@@ -129,6 +133,8 @@ sort: by_weight
 #（1）调频 pubb 「袜子」>「裙子」
 #（2）增加 pubb 「被子」「褶子」
 #（3）最终 pubb 「裤子」>「袜子」>「裙子」>「被子」>「褶子」
+# 增加 rrdm 「手擀面」
+# 增加 rtrf 「手擀」
 # 增加 gigi 「不孬」
 # 增加 gawg 「开合」
 # 增加 ckyb 「驶离」
@@ -162,9 +168,14 @@ sort: by_weight
 # 增加 rggo 「接下来」
 # 增加 rfgo 「看起来」
 # 增加 fdrh 「未成年」
+# 增加 tyuo 「特朗普」
+# 增加 rurt 「搓手」
 # 增加 mdef 「崴脚」
 # 增加 mmrg 「山丘」
+# 增加 dgfh 「咸盐」
+# 增加 oiqn 「炒饼」
 # 增加 odny 「烦心」
+# 增加 wyrl 「停摆」
 # 增加 tdhw 「智齿」
 # 增加 tfaq 「告警」
 # 增加 qeff 「解封」
@@ -187,6 +198,7 @@ sort: by_weight
 # 增加 ktbn 「咋了」
 # 增加 ktkq 「呼噜」
 # 增加 ktmd 「川崎」
+# 增加 mwit 「内海」
 # 增加 dydg 「碎石」
 # 增加 xcdl 「弘历」
 #（1）调频 nygc 「迟到」>「以致」「以至」
@@ -202,12 +214,15 @@ sort: by_weight
 # 增加 hhrk 「止损」「卡扣」
 # 增加 fhtf 「真行」「直行」
 # 增加 qqud 「钦差」
+# 增加 nyyn 「心盲」
+# 增加 ugsv 「辣根」
 # 增加 jgjg 「旺旺」
 # 增加 jojy 「蝼蚁」
 # 增加 iscn 「河马」
 #（1）增加 qsya 「锡林郭勒」，内蒙古的地级行政。
 #（2）删除 qsya 「弒」，「弑」的繁体字，容易引起误会，故删除。
 # 增加 rfgu 「抚平」
+# 增加 khah 「呲牙」
 # 增加 khsr 「踏板」
 # 增加 khuk 「路况」
 # 增加 ntff 「必填」
@@ -297,6 +312,8 @@ sort: by_weight
 #（1）调频 rttm 「卑微」>「挺身」
 #（2）增加 rttm 「插秧」
 # 增加 rwip 「推演」
+# 增加 namw 「臀肉」
+# 增加 jfiw 「里脊」
 # 增加 khvv 「遗女」
 # 增加 ghlp 「下辖」
 # 增加 teut 「筋道」
@@ -305,6 +322,8 @@ sort: by_weight
 # 增加 aqaw 「葱花」「警花」
 # 增加 rtrd 「插拔」「插排」
 # 增加 lgut 「车道」「辅道」
+#（1）调频 nyny 「咫尺」>「惊心」
+#（2）增加 nyny 「迟迟」
 # 增加 amqg 「黄鳝」
 # 增加 rwon 「掰断」
 # 增加 rywy 「护食」
@@ -331,6 +350,7 @@ sort: by_weight
 # 增加 iyeg 「省市县」
 # 增加 shud 「想着」「相送」，词频「相关」>「想着」>「相差」>「相送」
 # 增加 shfh 「椒盐」
+# 增加 fnud 「块头」
 # 增加 wxqe 「倾角」
 # 增加 spsy 「棺椁」
 # 增加 lgta 「车筐」
@@ -393,6 +413,7 @@ sort: by_weight
 # 增加 wgte 「合租」「仪表盘」
 # 增加 eubb 「膀子」「脚丫子」
 # 增加 wgny 「倒忙」
+# 增加 qtwg 「狗命」
 # 增加 aiai 「薄薄」
 # 增加 afnm 「鞋刷」
 # 增加 igai 「滔天巨浪」
@@ -10100,6 +10121,7 @@ sort: by_weight
 古城	dgfd	10000
 感天动地	dgff	10000
 三十	dgfg	10000
+咸盐	dgfh	10873
 厂址	dgfh	10000
 三朝	dgfj	10000
 石鼓	dgfk	10000
@@ -17846,6 +17868,7 @@ sort: by_weight
 塀	fnua	888
 声闻	fnub	10000
 卖	fnud	10000
+块头	fnud	9873
 专美	fnug	10000
 场站	fnuh	10000
 声音	fnuj	10000
@@ -31966,6 +31989,7 @@ sort: by_weight
 时常	jfip	10000
 时光	jfiq	10000
 里海	jfit	10000
+里脊	jfiw	11675
 时兴	jfiw	10000
 蛙泳	jfiy	10000
 昧	jfiy	9900
@@ -34937,6 +34961,7 @@ sort: by_weight
 嘘	khag	10000
 噓	khag	888
 忠臣	khah	10000
+呲牙	khah	9971
 嘑	khah	888
 蹛	khah	888
 中东	khai	10000
@@ -37069,6 +37094,7 @@ sort: by_weight
 哈喇	kwkg	10000
 吟唱	kwkj	10000
 呵佛骂祖	kwkp	10000
+哈啤	kwkr	10763
 哗啦	kwkr	10000
 吟哦	kwkt	10000
 哈哈	kwkw	10000
@@ -40597,6 +40623,7 @@ sort: by_weight
 同仁	mgwf	10000
 同伙	mgwo	10000
 同体	mgws	10000
+赋体	mgws	8295
 同伴	mgwu	10000
 赋分	mgwv	10000
 峡谷	mgww	10000
@@ -42031,6 +42058,7 @@ sort: by_weight
 内分泌	mwin	9900
 内河	mwis	10000
 内省	mwit	10000
+内海	mwit	9873
 内里	mwjf	10000
 岕	mwjj	888
 内景	mwjy	10000
@@ -42391,6 +42419,7 @@ sort: by_weight
 异同	namg	10000
 民风	namq	10000
 惜败	namt	10000
+臀肉	namw	10914
 殿内	namw	10000
 愩	namy	888
 慲	namy	888
@@ -45347,8 +45376,9 @@ sort: by_weight
 慷慨	nynv	10000
 恼恨	nynv	9900
 尽心	nyny	10000
-惊心	nyny	9900
-咫尺	nyny	9800
+迟迟	nyny	9955
+咫尺	nyny	9900
+惊心	nyny	9800
 心	nyny	9700
 心烦	nyod	10000
 恼火	nyoo	10000
@@ -45473,6 +45503,7 @@ sort: by_weight
 惦记	nyyn	10000
 心扉	nyyn	9900
 心房	nyyn	9800
+心盲	nyyn	9392
 心迹	nyyo	10000
 惊诧	nyyp	10000
 心底	nyyq	10000
@@ -45833,6 +45864,7 @@ sort: by_weight
 烤炉	ofoy	9900
 焃	ofoy	888
 灶神	ofpy	10000
+烤馕	ofqn	10737
 烤饼	ofqn	10000
 烘云托月	ofre	10000
 烤	oft	10000
@@ -46048,6 +46080,7 @@ sort: by_weight
 爣	oipo	888
 炒锅	oiqk	10000
 炒饭	oiqn	10000
+炒饼	oiqn	9634
 烑	oiqn	888
 烟波钓徒	oiqt	10000
 炒勺	oiqy	10000
@@ -54223,6 +54256,7 @@ sort: by_weight
 猤	qtwd	888
 獭祭	qtwf	10000
 狂傲	qtwg	10000
+狗命	qtwg	9967
 狠命	qtwg	9900
 獅	qtwh	888
 鏦	qtwh	888
@@ -58658,6 +58692,7 @@ sort: by_weight
 折耗	rrdi	10000
 白布	rrdm	10000
 白面	rrdm	9900
+手擀面	rrdm	9377
 拆成	rrdn	10000
 白灰	rrdo	10000
 誓愿	rrdr	10000
@@ -59329,6 +59364,7 @@ sort: by_weight
 插排	rtrd	9546
 手摇	rtre	10000
 手持	rtrf	10000
+手擀	rtrf	8739
 拨乱反正	rtrg	10000
 搬掉	rtrh	10000
 手抄	rtri	10000
@@ -59631,6 +59667,7 @@ sort: by_weight
 接拍	rurr	10000
 接手	rurt	10000
 拉手	rurt	9900
+搓手	rurt	9453
 拼接	ruru	10000
 接招	rurv	10000
 拼抢	rurw	10000
@@ -65700,6 +65737,7 @@ sort: by_weight
 赞歌	tfsk	10000
 待机	tfsm	10000
 先机	tfsm	9900
+街机	tfsm	9586
 靠枕	tfsp	10000
 造林	tfss	10000
 造桥	tfst	10000
@@ -69709,6 +69747,7 @@ sort: by_weight
 入关	tyud	10000
 往前	tyue	10000
 篇章	tyuj	10000
+特朗普	tyuo	9362
 簾	tyuo	888
 篇首	tyut	10000
 入道	tyut	9900
@@ -71163,6 +71202,7 @@ sort: by_weight
 凄楚	ugss	9900
 美格	ugst	10000
 病根	ugsv	10000
+辣根	ugsv	9762
 美术	ugsy	10000
 羲	ugt	10000
 病笃	ugtc	10000
@@ -81015,6 +81055,7 @@ sort: by_weight
 今年	wyrh	10000
 众望所归	wyrj	10000
 领扣	wyrk	10000
+停摆	wyrl	10333
 领舞	wyrl	10000
 仿制	wyrm	10000
 依据	wyrn	10000
