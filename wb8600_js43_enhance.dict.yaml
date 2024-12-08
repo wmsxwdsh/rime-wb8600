@@ -217,6 +217,7 @@ sort: by_weight
 # 增加 hhrk 「止损」「卡扣」
 # 增加 fhtf 「真行」「直行」
 # 增加 ajqg 「草鱼」「蓝鲸」
+# 增加 qnqn 「馄饨」「馅饼」
 # 增加 qqud 「钦差」
 # 增加 nyyn 「心盲」
 # 增加 rciq 「挨光」
@@ -276,7 +277,6 @@ sort: by_weight
 # 增加 khdw 「踏春」
 # 增加 kket 「品胜」，一家知名的手机配件公司。
 # 删除 qgqb 「」，扩展A U+4C9F
-# 增加 qnqn 「馅饼」
 # 增加 qqak 「金匮」
 # 增加 ajsg 「草酸」
 # 增加 swbb 「橙子」
@@ -369,8 +369,9 @@ sort: by_weight
 # 增加 itqn 「小笼包」
 # 增加 tcyn 「长颈鹿」
 # 增加 sstt 「酸酸甜甜」，删除「木笔」，毛笔的旧称，太不常用了。
-# 增加 ssyg 「禁语」
 # 增加 ynkh 「扇嘴」
+# 增加 qkfk 「兔喜」
+# 增加 ssyg 「禁语」
 # 增加 tmah 「微臣」
 #（1）增加 ssyt 「郴州」，chēn，湖南省下辖的地级市。
 #（2）增加 ssyt 「彬州」，陕西省下辖的县级市，由咸阳代管。
@@ -485,6 +486,7 @@ sort: by_weight
 # 增加 yqyt 「这句话」
 # 增加 ygbk 「说不出口」
 # 增加 tjkk 「稀里哗啦」
+# >>> 调频 rcwg 「揉合」>「拚命」pàn
 # >>> 调频 umtf 「端午」>「商行」
 # >>> 调频 ujtm 「单身」>「意向」
 # >>> 调频 udng 「翔」>「关怀」
@@ -52116,6 +52118,7 @@ sort: by_weight
 名士	qkfg	10000
 逸趣	qkfh	10000
 免进	qkfj	10000
+兔喜	qkfk	10473
 钟鼓	qkfk	10000
 名声	qkfn	10000
 钟声	qkfn	9900
@@ -52698,6 +52701,7 @@ sort: by_weight
 饭锅	qnqk	10000
 馏	qnql	10000
 饱	qnqn	10000
+馄饨	qnqn	9977
 饥饿	qnqn	9900
 饭馆	qnqn	9800
 馅饼	qnqn	9581
@@ -55763,8 +55767,8 @@ sort: by_weight
 择优	rcwd	10000
 瓜仁	rcwf	10000
 反倒	rcwg	10000
-拚命	rcwg	9900
-揉合	rcwg	9800
+揉合	rcwg	9900
+拚命	rcwg	9800
 返修	rcwh	10000
 择偶	rcwj	10000
 反侧	rcwm	10000
