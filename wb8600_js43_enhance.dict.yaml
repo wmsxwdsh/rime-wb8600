@@ -620,6 +620,7 @@ sort: by_weight
 # 增加 wvga 「岔开」
 # 增加 wmwg 「催债」「仙剑」「仙侠」
 # 增加 fhtf 「真行」「直行」「直选」
+# 增加 udqg 「养鱼」「凑钱」「送钱」
 # 增加 utwf 「颜值」「首付」
 # 增加 udud 「羚羊」
 # 增加 udcn 「养马」
@@ -629,7 +630,8 @@ sort: by_weight
 # 增加 ruuj 「抖音」「拼单」，词频「抖音」>「拼音」>「拼单」
 # 增加 terr 「航拍」
 # 增加 ryqg 「搞钱」
-# >>> 调频 sgjg 「桓」>「醒」（sgj 已经出字），删除「酌量」，太不常用了。
+# >>> 调频 sgjg 「桓」>「醒」sgj 已经出字。删除「酌量」，太不常用了。
+# >>> 调频 mmqu 「岚」>「岗」mmq 已经出字。
 # >>> 调频 rufh 「抖」>「拌」
 # >>> 调频 rrfh 「抓起」>「掀起」
 # 增加 rtrt 「插播」「据我所知」
@@ -663,6 +665,8 @@ sort: by_weight
 # 增加 khga 「踢开」
 # 增加 khff 「中土」，单字先出「跬」>「足坛」
 # >>> 调频 kham 「唬」>「中英」
+# >>> 调频 trnt 「特性」>「我」
+# >>> 调频 ynmp 「启迪」>「遍」
 # >>> 调频 kfkf 「喷嚏」>「喃喃」
 # >>> 调频 oooa 「火烧」>「火炬」
 # >>> 调频 tfga 「徒刑」>「选型」
@@ -671,6 +675,7 @@ sort: by_weight
 # 增加 ggnt 「一致性」
 # 增加 rlwy 「推恩令」
 # 增加 uiis 「冰淇淋」
+# 增加 isqg 「沙丁鱼」
 # 增加 ssgc 「西格玛」
 # 增加 iqrn 「光气」，无色有毒气体，光体在一战被用作化学武器。
 # 增加 fkmw 「甏肉」bèng，山东省济宁市的知名小吃。
@@ -695,6 +700,7 @@ sort: by_weight
 # 增加 gint 「不改」「不悔」
 # 增加 euaf 「脱鞋」「脱靶」
 # 增加 qttd 「狼藉」「狗笼」
+# 增加 qtef 「猪肘」「猪肝」
 # 增加 apiq 「荣光」
 # 增加 adgh 「欺下」
 # 增加 ffyn 「填房」
@@ -711,6 +717,8 @@ sort: by_weight
 # 增加 ddrr 「碰碰撞撞」
 # 增加 xkgk 「弥足珍贵」
 # 增加 gfgl 「速去速回」
+# 增加 ygwf 「高开低走」
+# 增加 xlwf 「疑罪从无」
 # 增加 ftce 「都能」
 # 增加 ftjg 「都是」
 # 增加 fphh 「过上」
@@ -739,7 +747,6 @@ sort: by_weight
 # 增加 adth 「藕片」
 # 增加 lfym 「罢市」
 # 增加 cfmf 「对赌」
-# 增加 mqwf 「网传」
 # 增加 cyab 「驻节」
 # 增加 jfdm 「旱厕」
 # 增加 tfrr 「街拍」
@@ -762,6 +769,7 @@ sort: by_weight
 # 增加 rgyg 「兵谏」
 # 增加 jnyt 「电诈」
 # 增加 advt 「欺君」
+# 增加 aneb 「巨乳」
 # 增加 igff 「添堵」
 # 增加 ipqg 「赏钱」
 # 增加 wgpu 「合衬」
@@ -853,6 +861,48 @@ sort: by_weight
 # 增加 iguj 「清瘟」
 # 增加 nyfg 「心雨」
 # 增加 rntg 「拨穗」
+# 增加 tham 「自贡」，四川省下辖的地级市。
+# 增加 gack 「邢台」，河北省下辖的地级市。
+# 增加 wgmq 「全网」，删除「愈见」，太不常用了。
+# 增加 mqwf 「网传」
+# 增加 udyg 「差评」
+# 增加 gufw 「平替」
+# 增加 tdsg 「适配」
+# 增加 wgjg 「便是」
+# 增加 xxjg 「皆是」
+# 增加 kfkg 「嘟囔」
+# 增加 rdyt 「拜谢」
+# 增加 ipbq 「深陷」
+# 增加 dmte 「面筋」
+# 增加 rhud 「牛羊」
+# 增加 ddtr 「大鹅」
+# 增加 tfxt 「千张」
+# 增加 mmiw 「山雀」
+# 增加 esud 「彩券」
+# 增加 tlsg 「血槽」
+# 增加 dffj 「压埋」
+# 增加 giyu 「不谙」
+# 增加 qnwg 「饶命」
+# 增加 byaq 「防艾」
+# 增加 dgff 「古寺」
+# 增加 navv 「民女」
+# 增加 wjyg 「偈语」
+# 增加 aqta 「警长」
+# 增加 pgna 「宝殿」
+# 增加 mqst 「网桥」
+# 增加 uswv 「新仇」
+# 增加 hjqb 「旧怨」
+# 增加 ymmt 「调账」
+# 增加 rffb 「遁地」
+# 增加 brwg 「孤例」
+# 增加 ukjt 「总览」
+# 增加 wfiv 「值当」
+# 增加 ynte 「扁舟」
+# 
+# ------------------------------------------
+# 增加的长字成语，大于4字
+# 增加 mqst 「网桥」「贝尔格莱德」，塞尔维亚的首都。
+# 增加 gsgi 「天机不可泄漏」
 # 
 # ------------------------------------------
 # 五笔的重码重灾区，重新整理。
@@ -3454,6 +3504,7 @@ sort: by_weight
 世故	andt	10000
 世袭	andx	10000
 世态	andy	10000
+巨乳	aneb	10545
 燕尾服	aneb	10000
 蔚	anf	10000
 巨款	anff	10000
@@ -4016,6 +4067,7 @@ sort: by_weight
 警校	aqsu	10000
 警枪	aqsw	10000
 获	aqt	10000
+警长	aqta	10741
 区长	aqta	10000
 茆	aqtb	10000
 获	aqtd	10000
@@ -6750,6 +6802,7 @@ sort: by_weight
 孤孀	brvf	10000
 孤女	brvv	10000
 孤傲	brwg	10000
+孤例	brwg	9837
 阿拉伯联合酋长国	brwl	10000
 孤僻	brwn	10000
 阿拉伯	brwr	10000
@@ -7236,6 +7289,7 @@ sort: by_weight
 孩	by	9900
 防范	byai	10000
 防区	byaq	10000
+防艾	byaq	9476
 出谋划策	byat	10000
 孩子	bybb	10000
 防卫	bybg	10000
@@ -9690,6 +9744,7 @@ sort: by_weight
 套筒	ddtm	10000
 大秋	ddto	10000
 套管	ddtp	10000
+大鹅	ddtr	10337
 大我	ddtr	10000
 大笑	ddtt	10000
 大笔	ddtt	9900
@@ -10100,6 +10155,7 @@ sort: by_weight
 夺走	dffh	9800
 奢求	dffi	10000
 压塌	dffj	10000
+压埋	dffj	9762
 布坎南	dffm	10000
 砖块	dffn	10000
 有教无类	dffo	10000
@@ -10333,6 +10389,7 @@ sort: by_weight
 感戴	dgfa	10000
 感动	dgfc	10000
 古城	dgfd	10000
+古寺	dgff	10435
 感天动地	dgff	10000
 三十	dgfg	10000
 咸盐	dgfh	10873
@@ -11565,6 +11622,7 @@ sort: by_weight
 面板	dmsr	10000
 而要	dmsv	10000
 感同身受	dmte	10000
+面筋	dmte	9145
 布告	dmtf	10000
 面生	dmtg	10000
 碘片	dmth	10000
@@ -14669,6 +14727,7 @@ sort: by_weight
 彩塑	esub	10000
 腰痛	esuc	10000
 彩头	esud	10000
+彩券	esud	9853
 膝盖	esug	10000
 腰间	esuj	10000
 腰部	esuk	10000
@@ -19890,6 +19949,7 @@ sort: by_weight
 与世隔绝	gabx	10000
 开戏	gaca	10000
 开通	gace	10000
+邢台	gack	10415
 开台	gack	10000
 琪	gad	10000
 不劳而获	gada	10000
@@ -21998,6 +22058,7 @@ sort: by_weight
 不义	giyq	10000
 不许	giyt	10000
 不详	giyu	10000
+不谙	giyu	9673
 不良	giyv	10000
 否认	giyw	10000
 不论	giyw	9900
@@ -23706,6 +23767,7 @@ sort: by_weight
 不可一世	gsga	10000
 天机不可泄露	gsgf	10000
 一板一眼	gsgh	10000
+天机不可泄漏	gsgi	10275
 不可不	gsgi	10000
 不可理喻	gsgk	10000
 琼楼玉宇	gsgp	10000
@@ -23989,6 +24051,7 @@ sort: by_weight
 夹击	gufm	10000
 平均	gufq	10000
 夹雪	gufv	10000
+平替	gufw	10767
 不辨真伪	gufw	10000
 平壤	gufy	10000
 平静	guge	10000
@@ -25535,6 +25598,7 @@ sort: by_weight
 逴	hjpk	888
 旧宅	hjpt	10000
 旧案	hjpv	10000
+旧怨	hjqb	9555
 児	hjqb	888
 卓然	hjqd	10000
 眼冒金星	hjqj	10000
@@ -29275,6 +29339,7 @@ sort: by_weight
 沈阳	ipbj	10000
 演出	ipbm	10000
 学院	ipbp	10000
+深陷	ipbq	10643
 沉陷	ipbq	10000
 小家子气	ipbr	10000
 沉降	ipbt	10000
@@ -30193,6 +30258,7 @@ sort: by_weight
 酒色	isqc	10000
 酒肴	isqd	10000
 河蟹	isqe	10000
+沙丁鱼	isqg	10423
 酒钱	isqg	10000
 酒馆	isqn	10000
 酒醉饭饱	isqq	10000
@@ -34927,6 +34993,7 @@ sort: by_weight
 嘻嘻	kfkf	10000
 喷嚏	kfkf	9900
 喃喃	kfkf	9800
+嘟囔	kfkg	10345
 咭	kfkg	10000
 喷嘴	kfkh	10000
 遗老遗少	kfki	10000
@@ -41351,6 +41418,7 @@ sort: by_weight
 山涧	mmiu	10000
 山梁	mmiv	10000
 山脊	mmiw	10000
+山雀	mmiw	9873
 岀	mmj	888
 山野	mmjf	10000
 崱	mmjj	888
@@ -41395,8 +41463,8 @@ sort: by_weight
 山外	mmqh	10000
 岘	mmqn	10000
 婴儿	mmqt	10000
-岗	mmqu	10000
-岚	mmqu	9900
+岚	mmqu	10000
+岗	mmqu	9900
 罂	mmr	10000
 山丘	mmrg	10454
 山岳	mmrg	10000
@@ -41808,6 +41876,8 @@ sort: by_weight
 帕金森	mqss	10000
 风格	mqst	10000
 网格	mqst	9900
+网桥	mqst	9756
+贝尔格莱德	mqst	8124
 网校	mqsu	10000
 刚要	mqsv	10000
 峁	mqt	10000
@@ -42800,6 +42870,7 @@ sort: by_weight
 民建	navf	10000
 异姓	navt	10000
 民妇	navv	10000
+民女	navv	9746
 愤世嫉俗	navw	10000
 心花怒放	navy	10000
 殿	naw	10000
@@ -48296,6 +48367,7 @@ sort: by_weight
 室内	pgmw	10000
 寅	pgmw	9900
 写	pgn	10000
+宝殿	pgna	10673
 富民	pgna	10000
 定居	pgnd	10000
 写	pgng	10000
@@ -53074,6 +53146,7 @@ sort: by_weight
 镠	qnwe	888
 馆舍	qnwf	10000
 饭盒	qnwg	10000
+饶命	qnwg	9743
 包修	qnwh	10000
 饸	qnwk	888
 包伙	qnwo	10000
@@ -54160,6 +54233,8 @@ sort: by_weight
 猎豹	qtee	10000
 獬豸	qtee	9659
 猪脚	qtef	10000
+猪肘	qtef	9672
+猪肝	qtef	9448
 狙	qteg	10000
 猙	qteh	888
 猺	qtem	888
@@ -56357,6 +56432,7 @@ sort: by_weight
 拜望	rdyn	10000
 推而广之	rdyp	10000
 排放	rdyt	10000
+拜谢	rdyt	9527
 拜认	rdyw	10000
 拜访	rdyy	10000
 扙	rdyy	888
@@ -56522,6 +56598,7 @@ sort: by_weight
 挂彩	rfes	10000
 持	rff	10000
 质地	rffb	10000
+遁地	rffb	9954
 扭亏增盈	rffe	10000
 挂	rffg	10000
 扶起	rffh	10000
@@ -57236,6 +57313,7 @@ sort: by_weight
 看着	rhud	10000
 年头	rhud	9900
 掉头	rhud	9800
+牛羊	rhud	9456
 年前	rhue	10000
 卸装	rhuf	10000
 看病	rhug	10000
@@ -65282,6 +65360,7 @@ sort: by_weight
 物有所值	tdrw	10000
 乱搞	tdry	10000
 私有权	tdsc	10000
+适配	tdsg	10836
 甜酸	tdsg	10000
 乱想	tdsh	10000
 稽查	tdsj	10000
@@ -66208,6 +66287,7 @@ sort: by_weight
 毛细	tfxl	10000
 造纸	tfxq	10000
 告终	tfxt	10000
+千张	tfxt	9976
 乖张	tfxt	9900
 等比	tfxx	10000
 德比	tfxx	9900
@@ -66638,6 +66718,7 @@ sort: by_weight
 自甘	thaf	10000
 算	thaj	10000
 籚	thal	888
+自贡	tham	9556
 箎	tham	888
 处世	than	10000
 自营	thap	10000
@@ -67713,6 +67794,7 @@ sort: by_weight
 血拼	tlru	10000
 囪	tlry	888
 血本	tlsg	10000
+血槽	tlsg	9774
 备查	tlsj	10000
 血样	tlsu	10000
 务要	tlsv	10000
@@ -68763,8 +68845,8 @@ sort: by_weight
 特快	trnn	10000
 鵝	trno	888
 鵞	trno	888
-我	trnt	10000
-特性	trnt	9900
+特性	trnt	10000
+我	trnt	9900
 我心	trny	10000
 物类	trod	10000
 物业	trog	10000
@@ -70731,6 +70813,9 @@ sort: by_weight
 差错	udqa	10000
 着色	udqc	10000
 觠	udqe	888
+养鱼	udqg	11965
+凑钱	udqg	11744
+送钱	udqg	11522
 鲞	udqg	10000
 鲝	udqg	888
 关外	udqh	10000
@@ -70901,6 +70986,7 @@ sort: by_weight
 養	udye	888
 判读	udyf	10000
 誊	udyf	9900
+差评	udyg	10763
 状语	udyg	10000
 羶	udyg	888
 减让	udyh	10000
@@ -72223,6 +72309,7 @@ sort: by_weight
 总量	ukjg	9800
 剖	ukjh	10000
 总监	ukjt	10000
+总览	ukjt	9878
 总归	ukjv	10000
 癌	ukk	10000
 闹哄哄	ukka	10000
@@ -73419,6 +73506,7 @@ sort: by_weight
 新作	uswt	10000
 新任	uswt	9900
 尊位	uswu	10000
+新仇	uswv	10234
 遒健	uswv	10000
 亲人	usww	10000
 新人	usww	9900
@@ -77565,6 +77653,7 @@ sort: by_weight
 祭	wfiu	10000
 佘	wfiu	9900
 传染	wfiv	10000
+值当	wfiv	9537
 俅	wfiy	10000
 佅	wfiy	888
 仐	wfj	888
@@ -77968,6 +78057,7 @@ sort: by_weight
 食不果腹	wgje	10000
 登时	wgjf	10000
 傳	wgjf	888
+便是	wgjg	10767
 命题	wgjg	10000
 例题	wgjg	9900
 倲	wgji	888
@@ -78068,7 +78158,8 @@ sort: by_weight
 伂	wgmh	888
 傮	wgmj	888
 登山	wgmm	10000
-愈见	wgmq	10000
+全网	wgmq	10762
+# 愈见	wgmq	10000
 倒账	wgmt	10000
 倒赔	wgmu	10000
 俩	wgmw	10000
@@ -78620,6 +78711,7 @@ sort: by_weight
 介绍	wjxv	10000
 倱	wjxx	888
 俚语	wjyg	10000
+偈语	wjyg	9674
 但应	wjyi	10000
 倒果为因	wjyl	10000
 介词	wjyn	10000
@@ -82941,6 +83033,7 @@ sort: by_weight
 细嫩	xlvg	10000
 縷	xlvg	888
 幼女	xlvv	10000
+疑罪从无	xlwf	10452
 细佬	xlwf	10000
 縕	xlwl	888
 鴢	xlwo	888
@@ -84159,6 +84252,7 @@ sort: by_weight
 绋	xxj	10000
 幽明	xxje	10000
 幽昧	xxjf	10000
+皆是	xxjg	10714
 比量	xxjg	10000
 绋	xxjh	10000
 紼	xxjh	888
@@ -85629,6 +85723,7 @@ sort: by_weight
 主创	ygwb	10000
 主公	ygwc	10000
 评估	ygwd	10000
+高开低走	ygwf	10452
 评传	ygwf	10000
 请便	ygwg	10000
 请命	ygwg	9900
@@ -86479,6 +86574,7 @@ sort: by_weight
 高见	ymmq	10000
 康帕内拉	ymmr	10000
 高峰	ymmt	10000
+调账	ymmt	9474
 廮	ymmv	888
 市内	ymmw	10000
 讥	ymn	10000
@@ -86855,8 +86951,8 @@ sort: by_weight
 翩	ynmn	10000
 甂	ynmn	888
 鶣	ynmo	888
-遍	ynmp	10000
-启迪	ynmp	9900
+启迪	ynmp	10000
+遍	ynmp	9900
 望见	ynmq	10000
 记账	ynmt	10000
 户内	ynmw	10000
@@ -86940,6 +87036,7 @@ sort: by_weight
 户籍	yntd	10000
 房租	ynte	10000
 启航	ynte	9900
+扁舟	ynte	9454
 启行	yntf	10000
 永生	yntg	10000
 讯息	ynth	10000
