@@ -51,6 +51,7 @@ sort: by_weight
 # 增加 ssad 「柯基」
 # 增加 xxce 「比熊」
 # 增加 tftr 「德牧」
+# 增加 cnsk 「巴哥」
 # 增加 khaf 「蹴鞠」
 # 增加 eptj 「爱得」
 # 增加 ghth 「丐版」
@@ -495,6 +496,7 @@ sort: by_weight
 # >>> 调频 rcwg 「揉合」>「拚命」pàn
 # >>> 调频 umtf 「端午」>「商行」
 # >>> 调频 ujtm 「单身」>「意向」
+# >>> 调频 ruwg 「拉倒」>「接合」
 # >>> 调频 udng 「翔」>「关怀」
 # 增加 ytqn 「旋钮」
 # 增加 yukg 「谥号」
@@ -663,6 +665,7 @@ sort: by_weight
 # >>> 调频 kham 「唬」>「中英」
 # >>> 调频 kfkf 「喷嚏」>「喃喃」
 # >>> 调频 oooa 「火烧」>「火炬」
+# >>> 调频 tfga 「徒刑」>「选型」
 # 增加 jguq 「蜂王浆」
 # 增加 apnn 「警察局」
 # 增加 ggnt 「一致性」
@@ -706,6 +709,7 @@ sort: by_weight
 # 增加 ggfd 「平平无奇」
 # 增加 ddrr 「碰碰撞撞」
 # 增加 xkgk 「弥足珍贵」
+# 增加 gfgl 「速去速回」
 # 增加 ftce 「都能」
 # 增加 ftjg 「都是」
 # 增加 fphh 「过上」
@@ -768,11 +772,14 @@ sort: by_weight
 # 增加 gqnt 「死性」，北京方言。
 # 增加 ipwy 「当家作主」，调频「常住」>「深信」
 # 增加 khtf 「跃迁」，调频「中午」>「中等」
+# 增加 ipip 「尝尝」，调频「沉淀」>「深沉」
 # 增加 stud 「格差」，格差社会。
 # 增加 pyyx 「社畜」，删除「祖率」，太不常用了。
 # 增加 igiw 「清誉」，删除「清澄」，太不常用了。
 # 增加 lggh 「辅政」，删除「车下」，太不常用了。
 # 增加 rpcn 「拧巴」，删除「探马」，太不常用了。
+# 增加 yglk 「主驾」，删除「请回」。
+# 增加 gklk 「副驾」「速回」，删除「请回」。
 # 增加 sdrm 「顶缸」
 # 增加 uqwa 「次贷」
 # 增加 udgd 「养蚕」
@@ -839,6 +846,11 @@ sort: by_weight
 # 增加 wyyw 「贪腐」
 # 增加 adlt 「菲力」
 # 增加 jgkc 「是吧」
+# 增加 wtmh 「傻帽」
+# 增加 yepu 「衣褶」
+# 增加 cqud 「鸡头」
+# 增加 iguj 「清瘟」
+# 增加 nyfg 「心雨」
 # 
 # ------------------------------------------
 # 五笔的重码重灾区，重新整理。
@@ -8537,6 +8549,7 @@ sort: by_weight
 马棚	cnse	10000
 巴西	cnsg	10000
 马可	cnsk	10000
+巴哥	cnsk	9763
 巴林	cnss	10000
 马术	cnsy	10000
 巴黎	cntq	10000
@@ -8671,6 +8684,7 @@ sort: by_weight
 鸡血	cqtl	10000
 巴尔特	cqtr	10000
 欢笑	cqtt	10000
+鸡头	cqud	10144
 欢送	cqud	10000
 鸡瘟	cquj	10000
 欢颜	cqut	10000
@@ -20830,6 +20844,7 @@ sort: by_weight
 王老五	gfgg	10000
 蝁	gfgj	888
 不声不响	gfgk	10000
+速去速回	gfgl	10393
 一去不回	gfgl	10000
 惡	gfgn	888
 鵶	gfgo	888
@@ -22311,7 +22326,9 @@ sort: by_weight
 畐	gklf	888
 整车	gklg	10000
 副	gklj	10000
-带回	gklk	10000
+副驾	gklk	10946
+速回	gklk	10372
+# 带回	gklk	10000
 疈	gkll	888
 鶝	gklo	888
 逼	gklp	10000
@@ -27695,6 +27712,7 @@ sort: by_weight
 清冽	igug	10000
 泙	iguh	888
 清单	iguj	10000
+清瘟	iguj	9473
 漠不关心	igun	10000
 清净	iguq	10000
 清新	igus	10000
@@ -28175,7 +28193,7 @@ sort: by_weight
 汗津津	iiiv	10000
 水浴	iiiw	10000
 水流	iiiy	10000
-水浒	iiiy	9573
+水浒	iiiy	9973
 湿漉漉	iiiy	9900
 渁	iiiy	888
 沙尘暴	iija	10000
@@ -29362,8 +29380,9 @@ sort: by_weight
 浓汤	ipin	10000
 浓淡	ipio	10000
 常常	ipip	10000
-深沉	ipip	9900
-沉淀	ipip	9800
+尝尝	ipip	9977
+沉淀	ipip	9900
+深沉	ipip	9800
 赏光	ipiq	10000
 党派	ipir	10000
 学派	ipir	9900
@@ -45529,6 +45548,7 @@ sort: by_weight
 心动	nyfc	10000
 惊动	nyfc	9900
 尺寸	nyfg	10000
+心雨	nyfg	8835
 惊起	nyfh	10000
 以求	nyfi	10000
 惊喜	nyfk	10000
@@ -60041,8 +60061,8 @@ sort: by_weight
 白头翁	ruwc	10000
 白头偕老	ruwf	10000
 拼命	ruwg	10000
-接合	ruwg	9900
-拉倒	ruwg	9800
+拉倒	ruwg	9900
+接合	ruwg	9800
 拉伸	ruwj	10000
 搤	ruwl	888
 探亲假	ruwn	10000
@@ -65799,8 +65819,8 @@ sort: by_weight
 迁坟	tffy	9366
 秲	tffy	888
 造型	tfga	10000
-选型	tfga	9900
-徒刑	tfga	9800
+徒刑	tfga	9900
+选型	tfga	9800
 等到	tfgc	10000
 待到	tfgc	9900
 先天	tfgd	10000
@@ -79945,6 +79965,7 @@ sort: by_weight
 作曲	wtma	10000
 伤财	wtmf	10000
 任由	wtmh	10000
+傻帽	wtmh	9835
 峹	wtmj	888
 嵞	wtmm	888
 作风	wtmq	10000
@@ -85088,6 +85109,7 @@ sort: by_weight
 衣衫	yepu	10000
 衣袖	yepu	9900
 衣襟	yepu	9800
+衣褶	yepu	9463
 哀怨	yeqb	10000
 衣角	yeqe	10000
 哀乐	yeqi	10000
@@ -85488,7 +85510,8 @@ sort: by_weight
 文不加点	yglh	10000
 谏	ygli	10000
 諫	ygli	888
-请回	yglk	10000
+主驾	yglk	10672
+# 请回	yglk	10000
 主轴	yglm	10000
 主力	yglt	10000
 主办	yglw	10000
