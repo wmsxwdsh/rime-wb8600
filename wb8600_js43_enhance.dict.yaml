@@ -220,7 +220,6 @@ sort: by_weight
 # 增加 rqud 「抱头」「抱拳」
 # 增加 nute 「飞艇」「飞盘」
 # 增加 hhrk 「止损」「卡扣」
-# 增加 fhtf 「真行」「直行」
 # 增加 ajqg 「草鱼」「蓝鲸」
 # 增加 qnqn 「馄饨」「馅饼」
 # 增加 gawg 「开盒」「开合」
@@ -620,6 +619,7 @@ sort: by_weight
 # 增加 wwgy 「坐班」
 # 增加 wvga 「岔开」
 # 增加 wmwg 「催债」「仙剑」「仙侠」
+# 增加 fhtf 「真行」「直行」「直选」
 # 增加 utwf 「颜值」「首付」
 # 增加 udud 「羚羊」
 # 增加 udcn 「养马」
@@ -852,6 +852,7 @@ sort: by_weight
 # 增加 cqud 「鸡头」
 # 增加 iguj 「清瘟」
 # 增加 nyfg 「心雨」
+# 增加 rntg 「拨穗」
 # 
 # ------------------------------------------
 # 五笔的重码重灾区，重新整理。
@@ -16869,8 +16870,9 @@ sort: by_weight
 起航	fhte	9900
 越秀	fhte	9668
 直租	fhte	9446
-真行	fhtf	11977
-直行	fhtf	11145
+真行	fhtf	11979
+直行	fhtf	11647
+直选	fhtf	11225
 起先	fhtf	10000
 超重	fhtg	10000
 起重	fhtg	9900
@@ -58361,6 +58363,7 @@ sort: by_weight
 所长	rnta	10000
 所知	rntd	10000
 扭矩	rntd	9434
+拨穗	rntg	10832
 白璧微瑕	rntg	10000
 气息	rnth	10000
 所得	rntj	10000
