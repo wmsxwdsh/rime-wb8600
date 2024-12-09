@@ -682,6 +682,7 @@ sort: by_weight
 # 增加 fmkh 「献忠」
 # 增加 dypf 「戍守」
 # >>> 调频 fhwy 「赶集」>「真伪」
+# >>> 调频 khud 「噱头」>「遣送」
 # 增加 iakh 「满嘴」「满遗」
 # 增加 issg 「湘西」「酒酿」
 # 增加 afaf 「鞑靼」「靺鞨」
@@ -35739,8 +35740,8 @@ sort: by_weight
 踡	khub	888
 躑	khub	888
 跟着	khud	10000
-遣送	khud	9900
-噱头	khud	9800
+噱头	khud	9900
+遣送	khud	9800
 蹢	khud	888
 躘	khud	888
 跟前	khue	10000
