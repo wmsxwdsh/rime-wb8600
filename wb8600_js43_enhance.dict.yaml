@@ -670,6 +670,7 @@ sort: by_weight
 # >>> 调频 kfkf 「喷嚏」>「喃喃」
 # >>> 调频 oooa 「火烧」>「火炬」
 # >>> 调频 tfga 「徒刑」>「选型」
+# >>> 调频 wyir 「偏激」>「停泊」
 # 增加 jguq 「蜂王浆」
 # 增加 apnn 「警察局」
 # 增加 ggnt 「一致性」
@@ -81359,8 +81360,8 @@ sort: by_weight
 僦	wyin	10000
 食堂	wyip	10000
 偏光	wyiq	10000
-停泊	wyir	10000
-偏激	wyir	9900
+偏激	wyir	10000
+停泊	wyir	9900
 伪劣	wyit	10000
 领海	wyit	9900
 停当	wyiv	10000
