@@ -5,8 +5,11 @@ note: "五笔拓展词库"
 version: "2024-12-03"
 sort: by_weight
 
-# 极点五笔词库未占用的编码空间
-# 都是首次出现的编码，权重范围 7000~5000
+# 
+# 绝大多数，都是极点五笔词库未占用的编码空间。
+# 拓展词库的权重范围 7000~5000
+# 主词库的权重范围  12000~8000
+# 所以，就算和主词库重复、重码也没关系。
 #
 # 收录一些「知名景点」；
 # 收录一些「中外名人」；
@@ -31,6 +34,8 @@ sort: by_weight
 # qdyt 「独龙族」，中国的少数民族，主要分布在云南省怒江州。
 # tmid 「微山湖」，淡水湖，位于山东和江苏的交界处。
 # djid 「大明湖」，济南市的名胜。
+# twmm 「千佛山」，济南市的名胜。
+# kpri 「趵突泉」，济南市的名胜。
 # qupd 「乌兰察布」，内蒙古下辖的地级市。
 #（1）增加 ohww 「粘人」
 #（2）增加 twww 「黏人」
@@ -73,12 +78,19 @@ sort: by_weight
 # vmfr 「努山塔拉」，印尼的新首都。
 # ofsm 「烤机」，测试电脑硬件的测试过程。
 # rcxj 「返费」，招工的返费制度。
+# apna 「荣民」，台湾「荣誉国民」的简称。
+# bfsg 「陆配」，台湾「大陆配偶」的简称。
+# ogsg 「业配」，台湾「业务配合」的简称。
 # gkaf 「敕勒」，中国古代的蒙古游牧民族。
+# ckxj 「台旨」，宋代太守以下的意旨。
+# wxxj 「佛旨」，佛的意旨。
 # tosa 「番棋」，围棋术语。
 # nnrn 「局气」，北京方言。
 # vywg 「娘俩」niáng liǎ
 # xvww 「绿谷」，绿谷制药。
 # lqud 「罗翔」，法律教授。
+# swsc 「松树」「榆树」「桧树」
+# wurm 「倍投」，一种成倍的投注方式。
 # 
 ...
 节课	abyj	7000
@@ -87,6 +99,7 @@ sort: by_weight
 基操	adrk	7000
 菜鸡	aecq	7000
 菜椒	aesh	7000
+散仙	aewm	7000
 莱芝	agap	7000
 荆湘	agis	7000
 雅黑	ahlf	7000
@@ -100,8 +113,10 @@ sort: by_weight
 世茂	anad	7000
 芝罘	aplq	7000
 蒙圈	aplu	7000
+荣民	apna	7000
 艾灸	aqqy	7000
 警哥	aqsk	7000
+警巡	aqvp	7000
 欧乐堡	aqwk	7000
 蘸酱	asuq	7000
 医闹	atuy	7000
@@ -111,13 +126,16 @@ sort: by_weight
 阿斯塔纳	bafx	7000
 子类	bbod	7000
 陇南	bdfm	7000
+阴违	befn	7000
 防城港	bfia	7000
+陆配	bfsg	7000
 陕甘	bgaf	7000
 耳钉	bgqs	7000
 卫衣	bgye	7000
 阵仗	blwd	7000
 出摊	bmrc	7000
 孜然	btqd	7000
+降智	bttd	7000
 除菌	bwal	7000
 除冰	bwui	7000
 马斯克	cadq	7000
@@ -125,6 +143,7 @@ sort: by_weight
 马萨诸塞	cayp	7000
 鹬蚌	cbjd	7000
 双闪	ccuw	7000
+台旨	ckxj	7000
 马眼	cnhv	7000
 巴郎	cnyv	7000
 鸡脖	cqef	7000
@@ -162,6 +181,7 @@ sort: by_weight
 碳纤维	dxxw	7000
 乳膏	ebyp	7000
 胎压	ecdf	7000
+盈眶	echa	7000
 肥牛	ecrh	7000
 爱奇艺	edan	7000
 朋友圈	edlu	7000
@@ -172,6 +192,7 @@ sort: by_weight
 腕带	epgk	7000
 逐帧	epmh	7000
 腕豪	epyp	7000
+脱序	euyc	7000
 埃菲尔铁塔	faqf	7000
 霸凌	fauf	7000
 喜马拉雅	fcra	7000
@@ -196,6 +217,7 @@ sort: by_weight
 直播间	fruj	7000
 赵本山	fsmm	7000
 雾霾	ftfe	7000
+教培	ftfu	7000
 老赖	ftgk	7000
 考拉	ftru	7000
 魂斗罗	fulq	7000
@@ -228,6 +250,7 @@ sort: by_weight
 逗比	gkxx	7000
 画风	glmq	7000
 璎珞	gmgt	7000
+遭贬	gmmt	7000
 枣糕	gmou	7000
 刺挠	gmra	7000
 曹魏	gmtv	7000
@@ -258,7 +281,9 @@ sort: by_weight
 眼眵	hvhq	7000
 紫霞	hxfn	7000
 汇通	iace	7000
+港独	iaqt	7000
 浮窗	iepw	7000
+清奇	igds	7000
 泪奔	ihdf	7000
 小明	ihje	7000
 小红	ihxa	7000
@@ -271,6 +296,8 @@ sort: by_weight
 逃杀	iqqs	7000
 激斗	iruf	7000
 酒盅	isjl	7000
+酒托	isrt	7000
+河伯	iswr	7000
 活成	itdn	7000
 海蛎	itjd	7000
 潍日	ixjj	7000
@@ -284,6 +311,7 @@ sort: by_weight
 竖屏	jcnu	7000
 贤文	jcyy	7000
 暖心	jeny	7000
+明烛	jeoj	7000
 虾虎	jgha	7000
 虾滑	jgim	7000
 冒然	jhqd	7000
@@ -310,6 +338,7 @@ sort: by_weight
 中镖	khqs	7000
 嘴欠	khqw	7000
 哈曼卡顿	kjhg	7000
+串码	kkdc	7000
 口彩	kkes	7000
 鄂湘	kkis	7000
 吕后	kkrg	7000
@@ -332,7 +361,9 @@ sort: by_weight
 黑厮	lfda	7000
 黑胶	lfeu	7000
 团派	lfir	7000
+国丈	lgdy	7000
 车漆	lgis	7000
+国贸	lgqy	7000
 车衣	lgye	7000
 加湿器	likk	7000
 加谥	lkyu	7000
@@ -340,6 +371,7 @@ sort: by_weight
 边控	lprp	7000
 边牧	lptr	7000
 鸭胗	lqew	7000
+软控	lqrp	7000
 软核	lqsy	7000
 软乎	lqtu	7000
 鸭头	lqud	7000
@@ -377,9 +409,12 @@ sort: by_weight
 刷单	nmuj	7000
 局气	nnrn	7000
 习近平	nrgu	7000
+尾奏	ntdw	7000
 改刀	ntvn	7000
+买号	nukg	7000
 快准狠	nuqt	7000
 买房	nuyn	7000
+恰饭	nwqn	7000
 怀疑人生	nxwt	7000
 忙不	nygi	7000
 心累	nylx	7000
@@ -388,6 +423,7 @@ sort: by_weight
 烤机	ofsm	7000
 炖汤	ogin	7000
 凿实	ogpu	7000
+业配	ogsg	7000
 粘人	ohww	7000
 炒肝	oief	7000
 炒青	oige	7000
@@ -438,20 +474,24 @@ sort: by_weight
 神授	pyre	7000
 桀骜	qagq	7000
 锚点	qahk	7000
+错峰	qamt	7000
 昏招	qarv	7000
 饿了吗	qbkc	7000
 色域	qcfa	7000
 独龙族	qdyt	7000
 触碰	qedu	7000
 触屏	qenu	7000
+触控	qerp	7000
 触底	qeyq	7000
 乌云密布	qfpd	7000
 迩海	qiit	7000
 销号	qikg	7000
+乐呵	qiks	7000
 乌漆墨黑	qill	7000
 金海心	qiny	7000
 乐色	qiqc	7000
 乐毅	qiue	7000
+名姬	qkva	7000
 铜盆	qmwv	7000
 饿了	qnbn	7000
 饱了	qnbn	6544
@@ -484,9 +524,12 @@ sort: by_weight
 撩妹	rdvf	7000
 的确如此	rdvh	7000
 拉肚子	rebb	7000
+挂载	rffa	7000
 扬声器	rfkk	7000
+挂档	rfsi	7000
 挂科	rftu	7000
 挟迫	rgrp	7000
+挑子	ribb	7000
 牛油果	rijs	7000
 把酒言欢	riyc	7000
 操烦	rkod	7000
@@ -503,6 +546,7 @@ sort: by_weight
 换作	rqwt	7000
 鬼畜	rqyx	7000
 白鲸	rrqg	7000
+打砸	rsda	7000
 擦枪走火	rsfo	7000
 攒劲	rtca	7000
 手游	rtiy	7000
@@ -518,19 +562,23 @@ sort: by_weight
 树懒	scng	7000
 顶流	sdiy	7000
 顶格	sdst	7000
+相迎	shqb	7000
 查错	sjqa	7000
+查重	sjtg	7000
 桐柏	smsr	7000
 杨絮	snvk	7000
 样例	suwg	7000
 松狮	swqt	7000
 长宁	taps	7000
 奥巴马	tccn	7000
+舌吻	tdkq	7000
 乱炖	tdog	7000
 舔狗	tdqt	7000
 毛粉	tfow	7000
 乘搭	tfra	7000
 自嗨	thki	7000
 秒杀	tiqs	7000
+香吻	tjkq	7000
 得物	tjtr	7000
 复刻	tjyn	7000
 和珅	tkgj	7000
@@ -550,6 +598,7 @@ sort: by_weight
 很浓	tvip	5683
 很短	tvtd	7000
 律例	tvwg	7000
+千佛山	twmm	7000
 每分每秒	twtt	7000
 每个人	twww	7000
 黏人	twww	5429
@@ -567,9 +616,12 @@ sort: by_weight
 闺蜜	ufpn	7000
 痘坑	ugfy	7000
 半睡半醒	uhus	7000
+冰壶	uifp	7000
+冰袖	uipu	7000
 冰冰	uiui	7000
 单反	ujrc	7000
 总群	ukvt	7000
+兽奸	ulvf	7000
 憋坏	umfg	7000
 帝师	upjg	7000
 次卧	uqah	7000
@@ -577,6 +629,7 @@ sort: by_weight
 新晃	usji	7000
 新账	usmt	7000
 六盘水	utii	7000
+首善	utud	7000
 背刺	uxgm	7000
 曾母暗沙	uxji	7000
 背甲	uxlh	7000
@@ -617,11 +670,14 @@ sort: by_weight
 伯约	wrxq	7000
 人生苦短	wtat	7000
 斜挎	wtrd	7000
+倍投	wurm	7000
 健保	wvwk	7000
 分岔	wvwv	7000
+人乳	wweb	7000
 人彘	wwxg	7000
 佛鳄	wxqg	7000
 佛偈	wxwj	7000
+佛旨	wxxj	7000
 仪仗	wysd	7000
 信仰	wywq	7000
 偏低	wywq	6248
@@ -633,16 +689,19 @@ sort: by_weight
 母胎	xgec	7000
 引战	xhhk	7000
 犟种	xktk	7000
+纪传	xnwf	7000
 纸壳	xqfp	7000
 约炮	xqoq	7000
 弹窗	xupw	7000
 绿谷	xvww	7000
+引体向上	xwth	7000
 维稳	xwtq	7000
 庶兄	yakq	7000
 烹杀	ybqs	7000
 说难也难	ycbc	7000
+衣托	yert	7000
+康乾盛世	yfda	7000
 计列	yfgq	7000
-刘嘉玲	yfgw	7000
 语雀	ygiw	7000
 主摄	ygrb	7000
 谈不拢	ygrd	7000
