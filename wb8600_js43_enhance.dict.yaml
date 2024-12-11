@@ -515,6 +515,8 @@ sort: by_weight
 # >>> 调频 umtf 「端午」>「商行」
 # >>> 调频 ujtm 「单身」>「意向」
 # >>> 调频 ruwg 「拉倒」>「接合」
+# >>> 调频 ddfn 「励志」>「大声」
+# >>> 调频 fgfg 「二十」>「十二」
 # >>> 调频 udng 「翔」>「关怀」
 # 增加 inkh 「烫嘴」「漏嘴」
 # 增加 ywww 「认怂」「讹人」
@@ -636,6 +638,7 @@ sort: by_weight
 # 增加 tjkf 「香叶」
 # 增加 terr 「航拍」
 # 增加 ryqg 「搞钱」
+# >>> 调频 lgnh 「畏惧」>「车」lg 已经出字。
 # >>> 调频 sgjg 「桓」>「醒」sgj 已经出字。删除「酌量」，太不常用了。
 # >>> 调频 mmqu 「岚」>「岗」mmq 已经出字。
 # >>> 调频 rufh 「抖」>「拌」
@@ -9588,9 +9591,9 @@ sort: by_weight
 大堤	ddfj	10000
 大喜	ddfk	10000
 大坝	ddfm	10000
-大声	ddfn	10000
+励志	ddfn	10000
 大专	ddfn	9900
-励志	ddfn	9800
+大声	ddfn	9800
 大赦	ddfo	10000
 大过	ddfp	10000
 大都	ddft	10000
@@ -16474,8 +16477,8 @@ sort: by_weight
 过不去	fgfc	10000
 直来直去	fgff	10000
 博士	fgfg	10000
-十二	fgfg	9900
-二十	fgfg	9800
+二十	fgfg	9900
+十二	fgfg	9800
 埡	fgfg	888
 越来越	fgfh	10000
 圩	fgfh	9900
@@ -38612,8 +38615,8 @@ sort: by_weight
 国剧	lgnd	10000
 辅导	lgnf	10000
 国情	lgng	10000
-车	lgnh	10000
-畏惧	lgnh	9900
+畏惧	lgnh	1000
+车	lgnh	9900
 畏避	lgnk	10000
 国书	lgnn	10000
 车尾	lgnt	10000
