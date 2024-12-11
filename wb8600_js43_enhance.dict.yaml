@@ -127,6 +127,7 @@ sort: by_weight
 # 增加 gack 「邢台」，河北省下辖的地级市。
 # 增加 tham 「自贡」，四川省下辖的地级市。
 # 增加 gawn 「武侯」，四川省成都市下辖的一个区。
+# 增加 pgsg 「定西」，甘肃省下辖的地级市。
 # 增加 kwkr 「哈啤」，哈尔滨啤酒的简称。
 # 增加 kket 「品胜」，一家知名的手机配件公司。
 # 增加 eplt 「腕力」
@@ -638,9 +639,11 @@ sort: by_weight
 # 增加 tjkf 「香叶」
 # 增加 terr 「航拍」
 # 增加 ryqg 「搞钱」
+# >>> 调频 iyjh 「流畅」>「浏」>「济」iyj 已经出字。
 # >>> 调频 lgnh 「畏惧」>「车」lg 已经出字。
-# >>> 调频 sgjg 「桓」>「醒」sgj 已经出字。删除「酌量」，太不常用了。
 # >>> 调频 mmqu 「岚」>「岗」mmq 已经出字。
+# >>> 调频 sgjg 「桓」>「醒」sgj 已经出字。删除「酌量」，太不常用了。
+# >>> 调频 ukqb 「竞」>「兑」，删除「兗」，太不常用了。
 # >>> 调频 rufh 「抖」>「拌」
 # >>> 调频 rrfh 「抓起」>「掀起」
 # 增加 rtrt 「插播」「据我所知」
@@ -790,6 +793,7 @@ sort: by_weight
 # 增加 yglk 「主驾」，删除「请回」。
 # 增加 gklk 「副驾」「速回」，删除「带回」。
 # 增加 igeg 「清肺」「沛县」，江苏省徐州市下辖的县级市。
+# 增加 dcfa 「大马士革」，叙利亚的首都。
 # 增加 sdrm 「顶缸」
 # 增加 uqwa 「次贷」
 # 增加 udgd 「养蚕」
@@ -948,6 +952,7 @@ sort: by_weight
 # 增加 sunn 「梯己」
 # 增加 adyg 「苦主」
 # 增加 pyab 「福荫」
+# 增加 qtit 「狠活」
 # 
 # ------------------------------------------
 # 增加的长字成语，大于4字
@@ -961,6 +966,8 @@ sort: by_weight
 # 删除 kthf 「嘷」，「嗥」的异体字，太不常用了。
 # 删除 qgqb 「」，扩展A U+4C9F
 # 删除 rmqy 「」，扩展A U+39CF
+# 删除 wqvg 「」，扩展A U+3447
+# 删除 yrh  「」，扩展A U+4723
 # 删除 pyfi 「祙」，太不常用了。
 # 删除 pyfj 「禇」，太不常用了。
 # 删除 xdcy 「紘」「紱」，只保留「纮」。
@@ -9441,6 +9448,7 @@ sort: by_weight
 硧	dceh	888
 友爱	dcep	10000
 雄霸	dcfa	10000
+大马士革	dcfa	9668
 雄起	dcfh	10000
 三叉戟	dcfj	10000
 友协	dcfl	10000
@@ -31584,9 +31592,9 @@ sort: by_weight
 済	iyjg	888
 濟	iyjg	888
 湻	iyjg	888
-济	iyjh	10000
-流畅	iyjh	9900
-浏	iyjh	9800
+流畅	iyjh	1000
+浏	iyjh	9900
+济	iyjh	9800
 液晶	iyjj	10000
 浏览	iyjt	10000
 游览	iyjt	9900
@@ -48512,6 +48520,7 @@ sort: by_weight
 定势	pgrv	10000
 牢不可破	pgsd	10000
 定标	pgsf	10000
+定西	pgsg	10453
 写本	pgsg	10000
 定相	pgsh	10000
 定可	pgsk	10000
@@ -54446,6 +54455,7 @@ sort: by_weight
 猜测	qtim	10000
 狂泻	qtip	10000
 狣	qtiq	888
+狠活	qtit	9577
 猀	qtit	888
 狗血淋头	qtiu	10000
 猛涨	qtix	10000
@@ -72466,9 +72476,9 @@ sort: by_weight
 况	ukq	10000
 竞	ukq	9900
 冲昏	ukqa	10000
-兑	ukqb	10000
-竞	ukqb	9900
-兗	ukqb	888
+竞	ukqb	10000
+兑	ukqb	9900
+# 兗	ukqb	888
 剖解	ukqe	10000
 冲印	ukqg	10000
 交响乐	ukqi	10000
@@ -79741,7 +79751,7 @@ sort: by_weight
 您好	wqvb	9900
 爹妈	wqvc	10000
 依然如故	wqvd	10000
-	wqvg	888
+# 	wqvg	888
 父女	wqvv	10000
 爹娘	wqvy	10000
 低估	wqwd	10000
@@ -87794,7 +87804,7 @@ sort: by_weight
 诛灭	yrgo	10000
 放手一搏	yrgr	10000
 訢	yrh	888
-	yrh	888
+# 	yrh	888
 謕	yrhm	888
 诛	yri	10000
 亵渎	yrif	10000

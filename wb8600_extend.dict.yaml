@@ -64,6 +64,7 @@ sort: by_weight
 # smsr 「桐柏」，安徽省南阳市下辖的县级市。
 # sayh 「横店」，浙江省东阳市的横店影视城。
 # pstf 「宁德」，福建省下辖的地级市。
+# xtry 「张掖」，甘肃省下辖的地级市。
 # xdux 「缅北」
 # xdfm 「缅南」
 #（1）增加 jauk 「暴冲」
@@ -91,6 +92,9 @@ sort: by_weight
 # lqud 「罗翔」，法律教授。
 # swsc 「松树」「榆树」「桧树」
 # wurm 「倍投」，一种成倍的投注方式。
+# iigm 「沙棘」，一种很酸的果实。
+# fblq 「地软」，西北叫法，一种野菜。
+#
 # 
 ...
 节课	abyj	7000
@@ -195,6 +199,7 @@ sort: by_weight
 脱序	euyc	7000
 埃菲尔铁塔	faqf	7000
 霸凌	fauf	7000
+地软	fblq	7000
 喜马拉雅	fcra	7000
 云盘	fcte	7000
 去重	fctg	7000
@@ -288,6 +293,7 @@ sort: by_weight
 小明	ihje	7000
 小红	ihxa	7000
 水马	iicn	7000
+沙棘	iigm	7000
 水渍	iiig	7000
 消消乐	iiqi	7000
 水群	iivt	7000
@@ -692,6 +698,7 @@ sort: by_weight
 纪传	xnwf	7000
 纸壳	xqfp	7000
 约炮	xqoq	7000
+张掖	xtry	7000
 弹窗	xupw	7000
 绿谷	xvww	7000
 引体向上	xwth	7000
