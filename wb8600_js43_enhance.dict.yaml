@@ -118,6 +118,7 @@ sort: by_weight
 # 增加 itut 「省道」
 # 增加 srsd 「棉棒」
 # 增加 wgfa 「全域」
+# 增加 cqsg 「鸡西」，黑龙江省下辖的地级市。
 # 增加 ceyt 「通州」，北京市下辖的一个区。
 # 增加 uytf 「闵行」háng，上海市下辖的一个区。
 # 增加 ypyt 「亳州」bó，安徽省下辖的地级市。
@@ -683,6 +684,7 @@ sort: by_weight
 # 增加 apnn 「警察局」
 # 增加 ggnt 「一致性」
 # 增加 rlwy 「推恩令」
+# 增加 tdpe 「御三家」
 # 增加 uiis 「冰淇淋」
 # 增加 isqg 「沙丁鱼」
 # 增加 ssgc 「西格玛」
@@ -902,6 +904,7 @@ sort: by_weight
 # 增加 adwe 「菲佣」
 # 增加 kfyj 「喷剂」
 # 增加 fnkg 「卖号」
+# 增加 udkg 「养号」
 # 增加 qnrt 「饭托」
 # 增加 wdin 「优渥」
 # 增加 ygpn 「谏官」
@@ -8797,6 +8800,7 @@ sort: by_weight
 驳斥	cqry	10000
 鸡棚	cqse	10000
 鸡丁	cqsg	10000
+鸡西	cqsg	9363
 欢歌	cqsk	10000
 验钞机	cqsm	10000
 駠	cqtb	888
@@ -65483,6 +65487,7 @@ sort: by_weight
 适	tdpd	10000
 敌害	tdpd	9900
 适宜	tdpe	10000
+御三家	tdpe	9337
 敌寇	tdpf	10000
 乱写	tdpg	10000
 知雄守雌	tdph	10000
@@ -70892,6 +70897,7 @@ sort: by_weight
 养蜂	udjt	10000
 关照	udjv	10000
 头号	udkg	10000
+养号	udkg	9672
 差距	udkh	10000
 差遣	udkh	9900
 关口	udkk	10000
