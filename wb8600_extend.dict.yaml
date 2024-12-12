@@ -83,6 +83,7 @@ sort: by_weight
 # bfsg 「陆配」，台湾「大陆配偶」的简称。
 # ogsg 「业配」，台湾「业务配合」的简称。
 # gkaf 「敕勒」，中国古代的蒙古游牧民族。
+# veis 「奶酒」，内蒙古和蒙古国的奶酒。
 # ckxj 「台旨」，宋代太守以下的意旨。
 # wxxj 「佛旨」，佛的意旨。
 # tosa 「番棋」，围棋术语。
@@ -93,8 +94,10 @@ sort: by_weight
 # swsc 「松树」「榆树」「桧树」
 # wurm 「倍投」，一种成倍的投注方式。
 # iigm 「沙棘」，一种很酸的果实。
-# fblq 「地软」，西北叫法，一种野菜。
-#
+# fblq 「地软」，陕甘地区的叫法，一种野菜。
+# rraw 「罐罐茶」，陕甘地区的茶。
+# inwk 「漏保」，漏电保护开关的简称。
+# qysi 「留档」，文件或数据的保存。
 # 
 ...
 节课	abyj	7000
@@ -298,6 +301,7 @@ sort: by_weight
 消消乐	iiqi	7000
 水群	iivt	7000
 混输	ijlw	7000
+漏保	inwk	7000
 淡蓝	ioaj	7000
 逃杀	iqqs	7000
 激斗	iruf	7000
@@ -519,6 +523,7 @@ sort: by_weight
 邹平	qvgu	7000
 键程	qvtk	7000
 钢丝球	qxgf	7000
+留档	qysi	7000
 拒马	racn	7000
 扛鼎	rahn	7000
 拱火	raoo	7000
@@ -551,6 +556,7 @@ sort: by_weight
 换做	rqwd	7000
 换作	rqwt	7000
 鬼畜	rqyx	7000
+罐罐茶	rraw	7000
 白鲸	rrqg	7000
 打砸	rsda	7000
 擦枪走火	rsfo	7000
@@ -644,6 +650,7 @@ sort: by_weight
 好贱	vbmg	7000
 姑夫	vdfw	7000
 奶昔	veaj	7000
+奶酒	veis	7000
 鼠须管	vetp	7000
 剿共	vjaw	7000
 妲己	vjnn	7000
