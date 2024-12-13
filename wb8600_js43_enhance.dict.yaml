@@ -642,6 +642,7 @@ sort: by_weight
 # 增加 terr 「航拍」
 # 增加 ryqg 「搞钱」
 # >>> 调频 iyjh 「流畅」>「浏」>「济」iyj 已经出字。
+# >>> 调频 dprh 「牵扯」>「牵」drp 已经出字。
 # >>> 调频 lgnh 「畏惧」>「车」lg 已经出字。
 # >>> 调频 mmqu 「岚」>「岗」mmq 已经出字。
 # >>> 调频 sgjg 「桓」>「醒」sgj 已经出字。删除「酌量」，太不常用了。
@@ -804,6 +805,9 @@ sort: by_weight
 # 增加 ivbb 「梁子」
 # 增加 afac 「蒜苔」
 # 增加 afal 「蒜苗」
+# 增加 aeud 「菜卷」
+# 增加 tlen 「血肠」
+# 增加 iqqn 「泡馍」
 # 增加 ujdw 「间奏」
 # 增加 cfru 「对撞」
 # 增加 yngx 「刻毒」
@@ -911,6 +915,7 @@ sort: by_weight
 # 增加 dgjf 「三昧」，佛教用语。
 # 增加 rasw 「拒检」，拒绝检查。
 # 增加 afay 「勒芒」，法国巴黎的一个城市，勒芒24小时耐力赛。
+# 增加 mprd 「迪拜」，阿联酋的最大城市。
 # 增加 xmgk 「纳豆」，日本的传统食品。
 # 增加 pwpt 「空客」，空中客车。
 # 增加 ihwy 「滤食」，滤食性动物。
@@ -934,7 +939,6 @@ sort: by_weight
 # 增加 ndpg 「屋室」
 # 增加 gcwf 「到付」
 # 增加 pdwf 「寄付」
-# 增加 aeud 「菜卷」
 # 增加 wwoy 「谷糠」
 # 增加 wyvt 「储君」
 # 增加 lfpt 「墨客」
@@ -956,7 +960,10 @@ sort: by_weight
 # 增加 sunn 「梯己」
 # 增加 adyg 「苦主」
 # 增加 pyab 「福荫」
+# 增加 odkh 「糊嘴」
 # 增加 qtit 「狠活」
+# 增加 rtdf 「搬砖」
+# 增加 dmtf 「耐造」
 # 
 # ------------------------------------------
 # 增加的长字成语，大于4字
@@ -11701,6 +11708,7 @@ sort: by_weight
 而要	dmsv	10000
 感同身受	dmte	10000
 面筋	dmte	9145
+耐造	dmtf	10676
 布告	dmtf	10000
 面生	dmtg	10000
 碘片	dmth	10000
@@ -12112,8 +12120,8 @@ sort: by_weight
 牵	dpr	10000
 大字报	dprb	10000
 牵挂	dprf	10000
-牵	dprh	10000
-牵扯	dprh	9900
+牵扯	dprh	10000
+牵	dprh	9900
 牵制	dprm	10000
 研究所	dprn	10000
 牵手	dprt	10000
@@ -30016,6 +30024,7 @@ sort: by_weight
 逃逸	iqqk	10000
 沉甸甸	iqql	10000
 泡饭	iqqn	10000
+泡馍	iqqn	9827
 淘金	iqqq	10000
 逃犯	iqqt	10000
 滤色镜	iqqu	10000
@@ -41773,6 +41782,7 @@ sort: by_weight
 内窥镜	mpqu	10000
 同室操戈	mpra	10000
 崇拜	mprd	10000
+迪拜	mprd	9773
 内视反听	mprk	10000
 贮槽	mpsg	10000
 貯	mpsh	888
@@ -46212,6 +46222,7 @@ sort: by_weight
 糎	odjf	888
 粨	odjg	888
 烦躁	odkh	10000
+糊嘴	odkh	9244
 糊口	odkk	10000
 类别	odkl	10000
 烦	odm	10000
@@ -59750,6 +59761,7 @@ sort: by_weight
 括	rtd	10000
 挺身而出	rtdb	10000
 手套	rtdd	10000
+搬砖	rtdf	10673
 扬长而去	rtdf	10000
 揭竿而起	rtdf	9900
 括	rtdg	10000
