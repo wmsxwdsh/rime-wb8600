@@ -519,6 +519,7 @@ sort: by_weight
 # >>> 调频 ujtm 「单身」>「意向」
 # >>> 调频 ruwg 「拉倒」>「接合」
 # >>> 调频 ddfn 「励志」>「大声」
+# >>> 调频 lknn 「回忆」>「加快」
 # >>> 调频 fgfg 「二十」>「十二」
 # >>> 调频 udng 「翔」>「关怀」
 # 增加 inkh 「烫嘴」「漏嘴」
@@ -1064,7 +1065,8 @@ sort: by_weight
 # 鳜鱼	qgqg	8733
 # 鳗鱼	qgqg	8711
 # 鲳鱼	qgqg	8599
-# 鳕鱼	qgqg	8577
+# 鲑鱼	qgqg	8577
+# 鳕鱼	qgqg	8555
 # 如果你之前已经熟悉了极点五笔的优化重码规则，把 q 当 “鱼”，那更好。
 # 按此规则打词，几乎无重码。
 # 鳄鱼	qkqg
@@ -1083,6 +1085,7 @@ sort: by_weight
 # 鳜鱼	qdqg
 # 鳗鱼	qjqg
 # 鲳鱼	qjqg
+# 鲑鱼	qfqg
 # 鳕鱼	qfqg
 #
 #（3）khkh -- 双 “足” 的两字词语，把 k 当成 “足”
@@ -39076,8 +39079,8 @@ sort: by_weight
 回收	lknh	10000
 加收	lknh	9900
 回避	lknk	10000
-加快	lknn	10000
-回忆	lknn	9900
+回忆	lknn	10000
+加快	lknn	9900
 加以	lkny	10000
 加粗	lkoe	10000
 回火	lkoo	10000
@@ -51685,6 +51688,7 @@ sort: by_weight
 鎍	qfpi	888
 镇宅	qfpt	10000
 多才多艺	qfqa	10000
+鲑鱼	qfqg	10777
 鳕鱼	qfqg	10555
 猪猡	qfql	10000
 铜墙铁壁	qfqn	10000
@@ -51998,7 +52002,8 @@ sort: by_weight
 鳜鱼	qgqg	8733
 鳗鱼	qgqg	8711
 鲳鱼	qgqg	8599
-鳕鱼	qgqg	8577
+鲑鱼	qgqg	8577
+鳕鱼	qgqg	8555
 印玺	qgqi	10000
 印象	qgqj	10000
 鳄龟	qgqj	9541
