@@ -971,6 +971,7 @@ sort: by_weight
 # 增加 dmtf 「耐造」
 # 增加 yqte 「询盘」
 # 增加 yqww 「询价」
+# 增加 lgpy 「国祚」
 # 
 # ------------------------------------------
 # 增加的长字成语，大于4字
@@ -38682,6 +38683,7 @@ sort: by_weight
 国宾	lgpr	10000
 车窗	lgpw	10000
 车祸	lgpy	10000
+国祚	lgpy	9457
 国色	lgqc	10000
 回形针	lgqf	10000
 车钱	lgqg	10000
@@ -52742,8 +52744,8 @@ sort: by_weight
 名氏	qkqa	10000
 免	qkqb	10000
 名角	qkqe	10000
+鳄鱼	qkqg	10325
 鸲	qkqg	10000
-鳄鱼	qkqg	9825
 多吃多占	qkqh	10000
 逸乐	qkqi	10000
 名句	qkqk	10000
