@@ -647,7 +647,8 @@ sort: by_weight
 # 增加 terr 「航拍」
 # 增加 ryqg 「搞钱」
 # >>> 调频 iyjh 「流畅」>「浏」>「济」iyj 已经出字。
-# >>> 调频 dprh 「牵扯」>「牵」drp 已经出字。
+# >>> 调频 dprh 「牵扯」>「牵」dpr 已经出字。
+# >>> 调频 rlgh 「摆正」>「舞」rlg 已经出字。
 # >>> 调频 lgnh 「畏惧」>「车」lg 已经出字。
 # >>> 调频 mmqu 「岚」>「岗」mmq 已经出字。
 # >>> 调频 sgjg 「桓」>「醒」sgj 已经出字。删除「酌量」，太不常用了。
@@ -58054,8 +58055,8 @@ sort: by_weight
 擐	rlge	10000
 揋	rlge	888
 擦边球	rlgf	10000
-舞	rlgh	10000
-摆正	rlgh	9900
+摆正	rlgh	10000
+舞	rlgh	9900
 甒	rlgn	888
 接连不断	rlgo	10000
 無	rlgo	888
