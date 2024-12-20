@@ -538,6 +538,7 @@ sort: by_weight
 # >>> 调频 wgeg 「倩」>「全县」
 # >>> 调频 vefc 「媛」>「退却」
 # >>> 调频 ipgh 「淀」>「党政」
+# >>> 调频 ifhw 「滇」>「洁具」
 # >>> 调频 kham 「唬」>「中英」
 # >>> 调频 rtfj 「卑」>「挺进」「插进」
 # >>> 调频 qnad 「馍」>「馆藏」「包藏」
@@ -841,6 +842,7 @@ sort: by_weight
 # 增加 rtxg 「插线」
 # 增加 thrr 「自拍」
 # 增加 srbb 「栀子」
+# 增加 afny 「靶心」
 # 增加 rrxg 「折线」
 # 增加 syga 「柱形」
 # 增加 wxwq 「佛爷」
@@ -982,6 +984,7 @@ sort: by_weight
 # 增加 qtbb 「锤子」
 # 增加 isqc 「漂色」
 # 增加 qqny 「多忙」
+# 增加 ntgh 「属下」
 # 
 # ------------------------------------------
 # 增加的长字成语，大于4字
@@ -2140,6 +2143,7 @@ sort: by_weight
 著书	afnn	10000
 革履	afnt	10000
 甘心	afny	10000
+靶心	afny	9856
 鞋类	afod	10000
 鞋业	afog	10000
 鞭炮	afoq	10000
@@ -27531,8 +27535,8 @@ sort: by_weight
 污点	ifhk	10000
 漫无目的	ifhr	10000
 法眼	ifhv	10000
-洁具	ifhw	10000
-滇	ifhw	9900
+滇	ifhw	10000
+洁具	ifhw	9900
 潜江	ifia	10000
 滇池	ifib	10000
 法治	ific	10000
@@ -45057,6 +45061,7 @@ sort: by_weight
 属于	ntgf	10000
 性	ntgg	10000
 改正	ntgh	10000
+属下	ntgh	9726
 心血来潮	ntgi	10000
 憡	ntgi	888
 履带	ntgk	10000
@@ -78378,7 +78383,7 @@ sort: by_weight
 合围	wglf	9800
 朇	wglf	888
 全国	wglg	10000
-倒车	wglg	9783
+倒车	wglg	9983
 僵	wglg	9900
 劊	wglj	888
 會	wglj	888
