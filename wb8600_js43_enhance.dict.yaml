@@ -182,6 +182,7 @@ sort: by_weight
 # 增加 riua 「拖油瓶」
 # 增加 dwmq 「破伤风」
 # 增加 fmud 「嘉峪关」
+# 增加 fifa 「都江堰」
 # 增加 rurt 「搓手」
 # 增加 mdef 「崴脚」
 # 增加 mmrg 「山丘」
@@ -271,6 +272,8 @@ sort: by_weight
 # 增加 rtie 「热血沸腾」
 # 增加 fjfj 「云里雾里」
 # 增加 wnnn 「人心惶惶」
+# 增加 qqcc 「皱皱巴巴」
+# 增加 gegy 「五彩斑斓」
 # 增加 trfa 「逢年过节」
 # 增加 msyg 「岑楼齐末」
 # 增加 uuuu 「冰冰凉凉」
@@ -526,8 +529,10 @@ sort: by_weight
 # >>> 调频 ruwg 「拉倒」>「接合」
 # >>> 调频 ddfn 「励志」>「大声」
 # >>> 调频 lknn 「回忆」>「加快」
+# >>> 调频 txdg 「敏感」>「第三」
 # >>> 调频 fgfg 「二十」>「十二」
 # >>> 调频 trnt 「特性」>「我」
+# >>> 调频 trnt 「轻巧」>「轻」
 # >>> 调频 udng 「翔」>「关怀」
 # >>> 调频 afwu 「芙」>「某位」
 # >>> 调频 wgeg 「倩」>「全县」
@@ -975,6 +980,8 @@ sort: by_weight
 # 增加 yqww 「询价」
 # 增加 lgpy 「国祚」
 # 增加 qtbb 「锤子」
+# 增加 isqc 「漂色」
+# 增加 qqny 「多忙」
 # 
 # ------------------------------------------
 # 增加的长字成语，大于4字
@@ -17197,6 +17204,7 @@ sort: by_weight
 示爱	fiep	9900
 求胜	fiet	10000
 未及	fiey	10000
+都江堰	fifa	10725
 云消雾散	fifa	10000
 无法无天	fifg	10000
 求雨	fifg	9462
@@ -20828,6 +20836,7 @@ sort: by_weight
 青枣	gegm	9316
 更胜一筹	gegt	10000
 青玉	gegy	10000
+五彩斑斓	gegy	9413
 甫	geh	10000
 郙	gehb	888
 表皮	gehc	10000
@@ -30393,6 +30402,7 @@ sort: by_weight
 酒神	ispy	10000
 河神	ispy	9753
 酒色	isqc	10000
+漂色	isqc	9647
 酒肴	isqd	10000
 河蟹	isqe	10000
 沙丁鱼	isqg	10423
@@ -37904,8 +37914,8 @@ sort: by_weight
 轻	lc	10000
 轻	lca	10000
 轻工	lcaa	10000
-轻	lcag	10000
-轻巧	lcag	9900
+轻巧	lcag	10000
+轻	lcag	9900
 轻薄	lcai	10000
 轻蔑	lcal	10000
 轻取	lcbc	10000
@@ -53781,6 +53791,7 @@ sort: by_weight
 钩	qqc	10000
 独角戏	qqca	10000
 犹犹豫豫	qqcc	10000
+皱皱巴巴	qqcc	9872
 多能	qqce	10000
 钓鱼台	qqck	10000
 铯	qqcn	10000
@@ -53889,6 +53900,7 @@ sort: by_weight
 铇	qqnn	888
 金属	qqnt	10000
 多心	qqny	10000
+多忙	qqny	9985
 狐狸精	qqog	10000
 鑥	qqoj	888
 鑁	qqot	888
@@ -70097,8 +70109,8 @@ sort: by_weight
 繁难	txcw	10000
 龜	txd	888
 每套	txdd	10000
-第三	txdg	10000
-敏感	txdg	9900
+敏感	txdg	10000
+第三	txdg	9900
 身经百战	txdh	10000
 每页	txdm	10000
 繁盛	txdn	10000
