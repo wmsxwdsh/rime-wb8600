@@ -828,6 +828,8 @@ sort: by_weight
 # 增加 tlen 「血肠」
 # 增加 iqqn 「泡馍」
 # 增加 ujdw 「间奏」
+# 增加 qqqq 「多多」
+# 增加 jhce 「申通」
 # 增加 cfru 「对撞」
 # 增加 yngx 「刻毒」
 # 增加 ccww 「驭人」
@@ -32833,6 +32835,7 @@ sort: by_weight
 冒出	jhbm	10000
 冒险	jhbw	10000
 畅通	jhce	10000
+申通	jhce	9736
 蚾	jhcy	888
 明目达聪	jhdb	10000
 早有	jhde	10000
@@ -53947,6 +53950,7 @@ sort: by_weight
 钓饵	qqqn	10000
 狰狞	qqqp	10000
 金	qqqq	10000
+多多	qqqq	9845
 急匆匆	qqqr	10000
 铆钉	qqqs	10000
 金镑	qqqu	10000
@@ -58880,6 +58884,7 @@ sort: by_weight
 近路	rpkh	9900
 皖中	rpkh	9562
 挥别	rpkl	10000
+探员	rpkm	10472
 打字员	rpkm	10000
 探听	rpkr	10000
 按响	rpkt	10000
