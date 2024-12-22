@@ -183,6 +183,7 @@ sort: by_weight
 # 增加 dwmq 「破伤风」
 # 增加 fmud 「嘉峪关」
 # 增加 fifa 「都江堰」
+# 增加 dfnn 「威士忌」
 # 增加 rurt 「搓手」
 # 增加 mdef 「崴脚」
 # 增加 mmrg 「山丘」
@@ -275,6 +276,7 @@ sort: by_weight
 # 增加 qqcc 「皱皱巴巴」
 # 增加 gegy 「五彩斑斓」
 # 增加 ggfp 「于事无补」
+# 增加 ffwx 「远走他乡」
 # 增加 trfa 「逢年过节」
 # 增加 msyg 「岑楼齐末」
 # 增加 uuuu 「冰冰凉凉」
@@ -802,6 +804,7 @@ sort: by_weight
 # 增加 khtf 「跃迁」，调频「中午」>「中等」
 # 增加 ipip 「尝尝」，调频「沉淀」>「深沉」
 # 增加 ddfg 「硕博」，调频「大雨」>「硕士」
+# 增加 ugyy 「美文」，调频「美言」>「美方」
 # 增加 stud 「格差」，格差社会。
 # 增加 wgmq 「全网」，删除「愈见」，太不常用了。
 # 增加 pyyx 「社畜」，删除「祖率」，太不常用了。
@@ -986,6 +989,7 @@ sort: by_weight
 # 增加 isqc 「漂色」
 # 增加 qqny 「多忙」
 # 增加 ntgh 「属下」
+# 增加 rwgc 「推到」
 # 
 # ------------------------------------------
 # 增加的长字成语，大于4字
@@ -10336,6 +10340,7 @@ sort: by_weight
 泰坦尼克号	dfnk	10000
 大韩民国	dfnl	10000
 肆无忌惮	dfnn	10000
+威士忌	dfnn	9972
 匏	dfnn	9900
 鴮	dfno	888
 砖	dfny	10000
@@ -16445,6 +16450,7 @@ sort: by_weight
 十二分	ffwv	10000
 真真假假	ffww	10000
 土货	ffwx	10000
+远走他乡	ffwx	9872
 堵住	ffwy	10000
 鼃	ffxf	888
 无远弗届	ffxn	10000
@@ -60720,6 +60726,7 @@ sort: by_weight
 揜	rwga	888
 掵	rwgb	888
 捡到	rwgc	10000
+推到	rwgc	9728
 揆	rwgd	10000
 扮靓	rwge	10000
 抢球	rwgf	10000
@@ -71972,8 +71979,9 @@ sort: by_weight
 病魔	ugys	9900
 靖康	ugyv	10000
 羞与为伍	ugyw	10000
-美方	ugyy	10000
-美言	ugyy	9900
+美言	ugyy	10000
+美文	ugyy	9978
+美方	ugyy	9900
 站	uh	10000
 瘧	uhag	888
 疲劳	uhap	10000
