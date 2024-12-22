@@ -990,6 +990,9 @@ sort: by_weight
 # 增加 qqny 「多忙」
 # 增加 ntgh 「属下」
 # 增加 rwgc 「推到」
+# 增加 tkfb 「种地」
+# 增加 fcft 「支教」
+# 增加 ntqn 「发饰」
 # 
 # ------------------------------------------
 # 增加的长字成语，大于4字
@@ -15840,6 +15843,7 @@ sort: by_weight
 云霞	fcfn	10000
 去过	fcfp	10000
 去垢	fcfr	10000
+支教	fcft	10257
 云雾	fcft	10000
 云霓	fcfv	10000
 走马赴任	fcfw	10000
@@ -45191,6 +45195,7 @@ sort: by_weight
 必然	ntqd	10000
 尾鳍	ntqg	10000
 改名	ntqk	10000
+发饰	ntqn	11434
 发包	ntqn	10000
 恤金	ntqq	10000
 必杀	ntqs	10000
@@ -67742,6 +67747,7 @@ sort: by_weight
 各县	tkeg	10000
 各	tkf	10000
 各地	tkfb	10000
+种地	tkfb	9757
 积云	tkfc	10000
 和声	tkfn	10000
 种过	tkfp	10000
