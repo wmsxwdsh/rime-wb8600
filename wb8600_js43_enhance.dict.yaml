@@ -549,6 +549,7 @@ sort: by_weight
 # >>> 调频 fhwy 「赶集」>「真伪」
 # >>> 调频 khud 「噱头」>「遣送」
 # >>> 调频 kfkf 「喷嚏」>「喃喃」
+# >>> 调频 ynng 「永恒」>「房屋」
 # >>> 调频 oooa 「火烧」>「火炬」
 # >>> 调频 tfga 「徒刑」>「选型」
 # >>> 调频 wyir 「偏激」>「停泊」
@@ -677,6 +678,7 @@ sort: by_weight
 # 增加 sanu 「横屏」
 # 增加 wwgy 「坐班」
 # 增加 wvga 「岔开」
+# 增加 vfwu 「那位」
 # 增加 udud 「羚羊」
 # 增加 udcn 「养马」
 # 增加 tjkf 「香叶」
@@ -75594,6 +75596,7 @@ sort: by_weight
 姥爷	vfwq	10000
 那件	vfwr	10000
 婈	vfwt	888
+那位	vfwu	11763
 女士们	vfwu	10000
 那份	vfww	10000
 妋	vfwy	888
@@ -87239,8 +87242,8 @@ sort: by_weight
 記	ynn	888
 氓	ynna	10000
 扇	ynnd	10000
-房屋	ynng	10000
-永恒	ynng	9900
+永恒	ynng	10000
+房屋	ynng	9900
 忘怀	ynng	9800
 齐刷刷	ynnm	10000
 记忆	ynnn	10000
