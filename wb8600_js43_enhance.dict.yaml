@@ -187,7 +187,6 @@ sort: by_weight
 # 增加 rurt 「搓手」
 # 增加 mdef 「崴脚」
 # 增加 mmrg 「山丘」
-# 增加 dgfh 「咸盐」
 # 增加 yssh 「麻椒」
 # 增加 oiqn 「炒饼」
 # 增加 odny 「烦心」
@@ -228,6 +227,7 @@ sort: by_weight
 # 增加 utwf 「颜值」「首付」
 # 增加 ghwy 「下集」「正念」
 # 增加 wgbb 「侄子」「鸽子」
+# 增加 dgfh 「咸盐」「硬直」
 # 增加 ntbb 「虱子」
 # 增加 lwlg 「囹圄」
 # 增加 iyfp 「流过」
@@ -10521,6 +10521,7 @@ sort: by_weight
 三十	dgfg	10000
 咸盐	dgfh	10873
 厂址	dgfh	10000
+硬直	dgfh	9534
 三朝	dgfj	10000
 石鼓	dgfk	10000
 石块	dgfn	10000
