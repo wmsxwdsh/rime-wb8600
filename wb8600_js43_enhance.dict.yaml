@@ -977,6 +977,7 @@ sort: by_weight
 # 增加 dgrp 「硬控」
 # 增加 rwpw 「推究」
 # 增加 ntuj 「尾音」
+# 增加 lguj 「辅音」
 # 增加 bdyn 「随扈」
 # 增加 ifgk 「污吏」
 # 增加 ytng 「放刁」
@@ -38785,6 +38786,7 @@ sort: by_weight
 车站	lguh	10000
 軯	lguh	888
 车间	lguj	10000
+辅音	lguj	9995
 车况	lguk	10000
 车闸	lgul	10000
 车旁	lgup	10000
