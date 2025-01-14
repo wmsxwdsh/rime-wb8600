@@ -559,6 +559,7 @@ sort: by_weight
 # >>> 调频 dprh 「牵扯」>「牵」dpr 已经出字。
 # >>> 调频 rlgh 「摆正」>「舞」rlg 已经出字。
 # >>> 调频 ynmp 「启迪」>「遍」ynm 已经出字。
+# >>> 调频 tfux 「徒弟」>「乖」tfu 已经出字。
 # >>> 调频 lgnh 「畏惧」>「车」lg 已经出字。
 # >>> 调频 mmqu 「岚」>「岗」mmq 已经出字。
 # >>> 调频 sgjg 「桓」>「醒」sgj 已经出字。删除「酌量」，太不常用了。
@@ -822,6 +823,7 @@ sort: by_weight
 # 增加 sssj 「可可西里」，位于青海省玉树州的治多县。
 # 增加 dcfa 「大马士革」，叙利亚的首都。
 # 增加 sdrm 「顶缸」
+# 增加 wgcf 「登对」
 # 增加 uqwa 「次贷」
 # 增加 udgd 「养蚕」
 # 增加 wctd 「公知」
@@ -928,6 +930,8 @@ sort: by_weight
 # 增加 rffb 「遁地」
 # 增加 brwg 「孤例」
 # 增加 ukjt 「总览」
+# 增加 utpu 「道袍」
+# 增加 wgst 「剑桥」
 # 增加 wfiv 「值当」
 # 增加 ynte 「扁舟」
 # 增加 gkhc 「豆皮」
@@ -949,6 +953,7 @@ sort: by_weight
 # 增加 pyyw 「神谕」，神意，一种占卜的形式。
 # 增加 jqyt 「冕旒」，miǎn liú
 # 增加 thpg 「处室」，处级的机构，对应「科室」。
+# 增加 rpyg 「控评」，控制评论的简称。
 # 增加 mqwf 「网传」
 # 增加 udyg 「差评」
 # 增加 gufw 「平替」
@@ -59031,6 +59036,7 @@ sort: by_weight
 摈弃	rpyc	10000
 失之毫厘	rpyd	10000
 探讨	rpyf	10000
+控评	rpyg	10234
 按语	rpyg	10000
 挥就	rpyi	10000
 探望	rpyn	10000
@@ -66494,8 +66500,8 @@ sort: by_weight
 街道	tfut	10000
 鹄立	tfuu	10000
 入境问俗	tfuw	10000
-乖	tfux	10000
-徒弟	tfux	9900
+徒弟	tfux	10000
+乖	tfux	9900
 靠背	tfux	9800
 午门	tfuy	10424
 街门	tfuy	10000
@@ -73961,6 +73967,7 @@ sort: by_weight
 疺	utpi	888
 意乱神迷	utpo	10000
 羊毛衫	utpu	10000
+道袍	utpu	9726
 颜容	utpw	10000
 产钳	utqa	10000
 颜色	utqc	10000
@@ -78210,6 +78217,7 @@ sort: by_weight
 使劲	wgca	10000
 全能	wgce	10000
 侄	wgcf	10000
+登对	wgcf	9682
 倒	wgcj	10000
 登台	wgck	10000
 倒台	wgck	9900
@@ -78551,6 +78559,7 @@ sort: by_weight
 全棉	wgsr	10000
 人不可貌相	wgss	10000
 合格	wgst	10000
+剑桥	wgst	9474
 全校	wgsu	10000
 命根	wgsv	10000
 剑术	wgsy	10000
