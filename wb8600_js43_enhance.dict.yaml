@@ -700,6 +700,7 @@ sort: by_weight
 # 增加 fmkh 「献忠」
 # 增加 rtga 「搬弄」
 # 增加 rhrw 「牛掰」
+# 增加 toff 「翻墙」
 # 增加 qtkh 「猪蹄」
 # 增加 qtwy 「独食」
 # 增加 rrii 「白鲨」
@@ -852,6 +853,8 @@ sort: by_weight
 # 增加 uqou 「酱焖」
 # 增加 bgut 「耳道」
 # 增加 rtxg 「插线」
+# 增加 khfu 「跨境」
+# 增加 iaux 「漠北」
 # 增加 thrr 「自拍」
 # 增加 srbb 「栀子」
 # 增加 afny 「靶心」
@@ -1006,7 +1009,6 @@ sort: by_weight
 # 增加 fcft 「支教」
 # 增加 ntqn 「发饰」
 # 增加 jvth 「归处」
-# 增加 khfu 「跨境」
 # 
 # ------------------------------------------
 # 增加的长字成语，大于4字
@@ -26929,6 +26931,7 @@ sort: by_weight
 举世闻名	iauq	10000
 渠道	iaut	10000
 江北	iaux	10000
+漠北	iaux	9456
 满门	iauy	10000
 沏	iav	10000
 港姐	iave	10000
@@ -68539,6 +68542,7 @@ sort: by_weight
 翻脸	toew	10000
 翻地	tofb	10000
 翻动	tofc	10000
+翻墙	toff	10845
 翻土	toff	10000
 秋雨	tofg	10000
 翻越	tofh	10000
