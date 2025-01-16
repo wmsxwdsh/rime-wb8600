@@ -957,6 +957,7 @@ sort: by_weight
 # 增加 jqyt 「冕旒」，miǎn liú
 # 增加 thpg 「处室」，处级的机构，对应「科室」。
 # 增加 rpyg 「控评」，控制评论的简称。
+# 增加 ceet 「通胀」，通货膨胀的简称。
 # 增加 mqwf 「网传」
 # 增加 udyg 「差评」
 # 增加 gufw 「平替」
@@ -8098,6 +8099,7 @@ sort: by_weight
 通县	ceeg	10000
 熊胆	ceej	10000
 通用	ceet	10000
+通胀	ceet	9995
 通脱	ceeu	10000
 能及	ceey	10000
 能动	cefc	10000
