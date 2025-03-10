@@ -1014,6 +1014,9 @@ sort: by_weight
 # 增加 guud 「夹头」
 # 增加 rxud 「批头」
 # 增加 rnsy 「气柱」
+# 增加 rrkh 「折中」
+# 增加 gxut 「素颜」
+# 增加 rulf 「拉黑」
 #
 # ------------------------------------------
 # 增加的长字成语，大于4字
@@ -24687,6 +24690,7 @@ sort: by_weight
 素问	gxuk	10000
 毒瘤	gxuq	10000
 素净	gxuq	9900
+素颜	gxut	11742
 互道	gxut	10000
 素妆	gxuv	10000
 互递	gxux	10000
@@ -59470,6 +59474,7 @@ sort: by_weight
 哲	rrk	10000
 哲	rrkf	10000
 啠	rrkf	888
+折中	rrkh	10347
 踅	rrkh	10000
 白喝	rrkj	10000
 手舞足蹈	rrkk	10000
@@ -60275,6 +60280,7 @@ sort: by_weight
 拉响	rukt	10000
 投闲置散	rula	10000
 皇亲国戚	ruld	10000
+拉黑	rulf	10445
 搁置	rulf	10000
 撞车	rulg	10000
 拉架	rulk	10000
