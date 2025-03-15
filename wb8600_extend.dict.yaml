@@ -117,6 +117,7 @@ sort: by_weight
 # aqkh 「欧陆」，欧陆词典的简称。
 # dgbg 「厨卫」，厨房和卫生间的合称。
 # qeuw 「角阀」，阀门的一种。
+# ihlw 「波轮」，波轮洗衣机。
 # 
 ...
 玄烨	yxow	7000
@@ -131,6 +132,7 @@ sort: by_weight
 牟平	crgu	7000
 通断	ceon	7000
 角阀	qeuw	7000
+波轮	ihlw	7000
 ###
 节课	abyj	7000
 菜鸡互啄	acgk	7000
