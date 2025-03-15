@@ -554,6 +554,8 @@ sort: by_weight
 # >>> 调频 oooa 「火烧」>「火炬」
 # >>> 调频 tfga 「徒刑」>「选型」
 # >>> 调频 wyir 「偏激」>「停泊」
+# >>> 调频 nytd 「心智」>「忙乱」
+# >>> 调频 rwfc 「失去」>「推动」
 # >>> 调频 rrfh 「抓起」>「掀起」
 # >>> 调频 iyjh 「流畅」>「浏」>「济」iyj 已经出字。
 # >>> 调频 dprh 「牵扯」>「牵」dpr 已经出字。
@@ -46017,8 +46019,8 @@ sort: by_weight
 惊梦	nyss	10000
 以诚相待	nyst	10000
 心术	nysy	10000
-忙乱	nytd	10000
-心智	nytd	9900
+心智	nytd	10000
+忙乱	nytd	9900
 以待	nytf	10000
 心生	nytg	10000
 迟延	nyth	10000
@@ -60747,8 +60749,8 @@ sort: by_weight
 推及	rwey	10000
 拊	rwf	10000
 失地	rwfb	10000
-推动	rwfc	10000
-失去	rwfc	9900
+失去	rwfc	10000
+推动	rwfc	9900
 抢劫	rwfc	9800
 推土	rwff	10000
 失真	rwfh	10000
