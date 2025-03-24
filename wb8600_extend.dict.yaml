@@ -50,6 +50,7 @@ sort: by_weight
 #（2）增加 nkxx 「屌丝」
 #（3）两个词语都有广泛使用，故都收录。
 # ktfb 「咋地」，东北方言。
+# dkuk 「三吹六哨」，东北方言。
 # rxnh 「掼蛋」，江苏的一种扑克玩法。
 # enow 「肠粉」，广东的知名小吃。
 # oief 「炒肝」，北京的知名小吃。
@@ -120,19 +121,6 @@ sort: by_weight
 # ihlw 「波轮」，波轮洗衣机。
 # 
 ...
-玄烨	yxow	7000
-欧路	aqkh	7000
-神雕	pymf	7000
-繁中	txkh	7000
-简中	tukh	7000
-确反	dqrc	7000
-荔湾	aliy	7000
-厨卫	dgbg	7000
-当做	ivwd	7000
-牟平	crgu	7000
-通断	ceon	7000
-角阀	qeuw	7000
-波轮	ihlw	7000
 ###
 节课	abyj	7000
 菜鸡互啄	acgk	7000
@@ -150,12 +138,14 @@ sort: by_weight
 葱油饼	aign	7000
 东掸	airu	7000
 莫言	ajyy	7000
+荔湾	aliy	7000
 黄桃	amsi	7000
 恐高	amym	7000
 世茂	anad	7000
 芝罘	aplq	7000
 蒙圈	aplu	7000
 荣民	apna	7000
+欧路	aqkh	7000
 艾灸	aqqy	7000
 警哥	aqsk	7000
 警巡	aqvp	7000
@@ -186,6 +176,7 @@ sort: by_weight
 马萨诸塞	cayp	7000
 鹬蚌	cbjd	7000
 双闪	ccuw	7000
+通断	ceon	7000
 台旨	ckxj	7000
 马眼	cnhv	7000
 巴州	cnyt	7000
@@ -196,6 +187,7 @@ sort: by_weight
 鸡皮	cqhc	7000
 鸡贼	cqma	7000
 鸡柳	cqsq	7000
+牟平	crgu	7000
 颈椎病	csug	7000
 骑行服	cteb	7000
 巴音郭楞	cuys	7000
@@ -208,16 +200,19 @@ sort: by_weight
 耗子尾汁	dbni	7000
 大胸	ddeq	7000
 套圈	ddlu	7000
+厨卫	dgbg	7000
 犬决	dgun	7000
 破圈	dhlu	7000
 大润发	dint	7000
 耗钱	diqg	7000
 大明湖	djid	7000
+三吹六哨	dkuk	7000
 非黑即白	dlvr	7000
 布偶	dmwj	7000
 灰鲸	doqg	7000
 大数据	dorn	7000
 万象城	dqfd	7000
+确反	dqrc	7000
 大乐透	dqte	7000
 厢式	dsaa	7000
 碰瓷	duuq	7000
@@ -337,6 +332,7 @@ sort: by_weight
 清奇	igds	7000
 泪奔	ihdf	7000
 小明	ihje	7000
+波轮	ihlw	7000
 小红	ihxa	7000
 水马	iicn	7000
 沙棘	iigm	7000
@@ -353,6 +349,7 @@ sort: by_weight
 河伯	iswr	7000
 活成	itdn	7000
 海蛎	itjd	7000
+当做	ivwd	7000
 潍日	ixjj	7000
 流脓	iyep	7000
 游曳	iyjx	7000
@@ -524,6 +521,7 @@ sort: by_weight
 裸模	pusa	7000
 实衔	putq	7000
 神举	pyiw	7000
+神雕	pymf	7000
 神授	pyre	7000
 桀骜	qagq	7000
 锚点	qahk	7000
@@ -535,6 +533,7 @@ sort: by_weight
 触碰	qedu	7000
 触屏	qenu	7000
 触控	qerp	7000
+角阀	qeuw	7000
 触底	qeyq	7000
 乌云密布	qfpd	7000
 迩海	qiit	7000
@@ -650,6 +649,7 @@ sort: by_weight
 条状	tsud	7000
 竹杠	ttsa	7000
 冬枣	tugm	7000
+简中	tukh	7000
 税赋	tumg	7000
 剩女	tuvv	7000
 很深	tvip	7000
@@ -660,6 +660,7 @@ sort: by_weight
 每分每秒	twtt	7000
 每个人	twww	7000
 黏人	twww	5429
+繁中	txkh	7000
 冻醒	uasg	7000
 逆袭	ubdx	7000
 兰陵王	ubgg	7000
@@ -787,4 +788,5 @@ sort: by_weight
 床笫	ystt	7000
 摩旅	ysyt	7000
 话痨	ytua	7000
+玄烨	yxow	7000
 议罪	yyld	7000
