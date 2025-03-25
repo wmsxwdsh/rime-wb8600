@@ -695,6 +695,7 @@ sort: by_weight
 # 增加 puyu 「初谥」，一开始定的谥号。
 # 增加 jjpf 「日赛」，每日进行的比赛。
 # 增加 epdc 「逐码」，逐码提示。
+# 增加 wfpy 「传祺」，调频「传神」>「祭祀」
 # 增加 pdwy 「宠信」，调频「家破人亡」>「寄信」
 # 增加 fwyc 「〇」，零
 # 增加 hktf 「点赞」
@@ -78075,9 +78076,10 @@ sort: by_weight
 会审	wfpj	10000
 会客	wfpt	10000
 人无完人	wfpw	10000
-祭祀	wfpy	10000
-传神	wfpy	9900
+传神	wfpy	10000
+祭祀	wfpy	9900
 祭祖	wfpy	9800
+传祺	wfpy	9347
 學	wfqb	888
 発	wfqb	888
 斅	wfqc	888
