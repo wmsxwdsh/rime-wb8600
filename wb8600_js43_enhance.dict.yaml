@@ -1029,6 +1029,7 @@ sort: by_weight
 # 增加 rytf 「抗造」
 # 增加 kykw 「哼哈」
 # 增加 iptd 「觉知」
+# 增加 awlm 「茶轴」
 #
 # ------------------------------------------
 # 增加的长字成语，大于4字
@@ -5081,6 +5082,7 @@ sort: by_weight
 花甲	awlh	10000
 輂	awlj	888
 恭贺	awlk	10000
+茶轴	awlm	10434
 共轴	awlm	10000
 花边	awlp	10000
 花轿	awlt	10000
@@ -38395,6 +38397,7 @@ sort: by_weight
 团圆	lflk	10000
 转圜	lfll	10000
 转轴	lflm	10000
+黑轴	lflm	9825
 围困	lfls	10000
 转圈	lflu	10000
 转轨	lflv	10000
