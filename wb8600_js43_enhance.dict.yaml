@@ -966,6 +966,7 @@ sort: by_weight
 # 增加 thpg 「处室」，处级的机构，对应「科室」。
 # 增加 rpyg 「控评」，控制评论的简称。
 # 增加 ceet 「通胀」，通货膨胀的简称。
+# 增加 voiq 「灵耀」，华硕的灵耀。
 # 增加 mqwf 「网传」
 # 增加 udyg 「差评」
 # 增加 gufw 「平替」
@@ -76292,6 +76293,7 @@ sort: by_weight
 始料不及	voge	10000
 灵堂	voip	10000
 灵光	voiq	10000
+灵耀	voiq	9927
 灵活	voit	10000
 灵明	voje	10000
 粛	vojk	888
