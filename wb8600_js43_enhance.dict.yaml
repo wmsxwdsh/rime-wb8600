@@ -967,6 +967,7 @@ sort: by_weight
 # 增加 rpyg 「控评」，控制评论的简称。
 # 增加 ceet 「通胀」，通货膨胀的简称。
 # 增加 voiq 「灵耀」，华硕的灵耀。
+# 增加 gdtf 「天选」，华硕的天选。
 # 增加 mqwf 「网传」
 # 增加 udyg 「差评」
 # 增加 gufw 「平替」
@@ -20782,6 +20783,7 @@ sort: by_weight
 天长	gdta	10000
 天敌	gdtd	10000
 天竺	gdtf	10000
+天选	gdtf	9934
 天生	gdtg	10000
 天籁	gdtg	9900
 瓑	gdth	888
