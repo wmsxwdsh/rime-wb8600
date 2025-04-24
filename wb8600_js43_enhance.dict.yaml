@@ -739,6 +739,7 @@ sort: by_weight
 # 增加 gint 「不改」「不悔」
 # 增加 euaf 「脱鞋」「脱靶」
 # 增加 qtef 「猪肘」「猪肝」
+# 增加 ddfp 「套壳」「套索」
 # 增加 ipip 「尝尝」「深深」
 # 增加 iapl 「洪荒之力」
 # 增加 aaww 「草菅人命」
@@ -1033,7 +1034,9 @@ sort: by_weight
 # 增加 kykw 「哼哈」
 # 增加 iptd 「觉知」
 # 增加 awlm 「茶轴」
+# 增加 rtqg 「攒钱」
 # 增加 rpdy 「挖矿」
+# 增加 drdg 「原厂」
 #
 # ------------------------------------------
 # 增加的长字成语，大于4字
@@ -9688,6 +9691,8 @@ sort: by_weight
 大声	ddfn	9800
 大赦	ddfo	10000
 大过	ddfp	10000
+套壳	ddfp	9777
+套索	ddfp	9666
 大都	ddft	10000
 大增	ddfu	10000
 大雪	ddfv	10000
@@ -12423,6 +12428,7 @@ sort: by_weight
 原有	drde	10000
 大手大脚	drde	9826
 大气压	drdf	10000
+原厂	drdg	10345
 碑石	drdg	10000
 原在	drdh	10000
 碑碣	drdj	10000
@@ -60058,6 +60064,7 @@ sort: by_weight
 抸	rtpy	888
 挺然	rtqd	10000
 手铐	rtqf	10000
+攒钱	rtqg	11845
 手印	rtqg	10000
 插销	rtqi	10000
 托名	rtqk	10000
