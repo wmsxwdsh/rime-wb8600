@@ -466,7 +466,9 @@ sort: by_weight
 # 增加 gmde 「两鬓」，鬓 depw
 # 增加 ktkt 「咋呼」，北方方言。
 # 增加 thdg 「齁咸」，北方方言。
+# 增加 gaga 「嘎嘎」，东北方言，意思是“非常”。
 # 增加 ftae 「老蒯」，东北方言。
+# 增加 kakf 「唠嗑」，东北方言。
 # 增加 dfdc 「磕碜」，东北方言。
 # 增加 rwrh 「掰扯」，东北方言。
 #（1）增加 qttu 「猫冬」，东北方言。
@@ -516,6 +518,7 @@ sort: by_weight
 # 增加 itqn 「小笼包」
 # 增加 tcyn 「长颈鹿」
 # 增加 gtut 「不知道」
+# 增加 kgtk 「哪一种」
 # 增加 igai 「滔天巨浪」
 # 增加 ifgf 「油盐不进」
 # 增加 ppgg 「完完整整」
@@ -757,6 +760,7 @@ sort: by_weight
 # 增加 ygwf 「高开低走」
 # 增加 xlwf 「疑罪从无」
 # 增加 ggff 「来来去去」
+# 增加 mfut 「风雨兼程」
 # 增加 apiq 「荣光」
 # 增加 adgh 「欺下」
 # 增加 ffyn 「填房」
@@ -1045,6 +1049,13 @@ sort: by_weight
 #（2）调频 fhud 「赶着」
 #（3）最终 fhud 「趁着」>「赶着」>「起头」
 # 增加 djdj 「厚厚」
+# 增加 yiyy 「就该」
+# 增加 yfbm 「讲出」
+# 增加 deww 「有人」
+# 增加 qydh 「留在」
+# 增加 fqtj 「无香」
+# 增加 tjth 「香片」
+# 增加 fhgc 「走到」
 # 
 # ------------------------------------------
 # 增加的长字成语，大于4字
@@ -10244,6 +10255,7 @@ sort: by_weight
 有何	dews	10000
 髹	dews	9900
 有余	dewt	10000
+有人	deww	11555
 大腹便便	deww	10000
 有信	dewy	10000
 磎	dexd	888
@@ -16921,6 +16933,7 @@ sort: by_weight
 圵	fhg	888
 走开	fhga	10000
 直到	fhgc	10000
+走到	fhgc	9976
 赶到	fhgc	9900
 起到	fhgc	9800
 趋于	fhgf	10000
@@ -18920,6 +18933,7 @@ sort: by_weight
 远处	fqth	10000
 无处	fqth	9900
 无利	fqtj	10000
+无香	fqtj	9834
 远程	fqtk	10000
 远射	fqtm	10000
 均衡	fqtq	10000
@@ -34787,6 +34801,7 @@ sort: by_weight
 哎呀	kaka	10000
 嘶喊	kakd	10000
 呕吐	kakf	10000
+唠嗑	kakf	9425
 嘶哑	kakg	10000
 咂嘴	kakh	10000
 嘔	kakk	888
@@ -35023,6 +35038,7 @@ sort: by_weight
 顺畅	kdjh	10000
 唵	kdjn	888
 踌躇	kdka	10000
+嘎嘎	kdkd	10345
 咕咕	kdkd	10000
 咕嘟	kdkf	10000
 顺路	kdkh	10000
@@ -35501,6 +35517,7 @@ sort: by_weight
 号牌	kgth	10000
 吓得	kgtj	10000
 另一种	kgtk	10000
+哪一种	kgtk	9823
 号称	kgtq	10000
 唛	kgty	10000
 呈送	kgud	10000
@@ -41057,6 +41074,7 @@ sort: by_weight
 风雨交加	mful	10000
 崭露头角	mfuq	10000
 财产	mfut	10000
+风雨兼程	mfut	9593
 风雨凄凄	mfuu	10000
 财阀	mfuw	10000
 周六	mfuy	10000
@@ -55644,6 +55662,7 @@ sort: by_weight
 枭雄	qydc	10000
 留有	qyde	10000
 卵石	qydg	10000
+留在	qydh	11444
 留存	qydh	10000
 多方面	qydm	10000
 留成	qydn	10000
@@ -67748,6 +67767,7 @@ sort: by_weight
 复生	tjtg	10000
 篂	tjtg	888
 利息	tjth	10000
+香片	tjth	9645
 得利	tjtj	10000
 馫	tjtj	888
 复种	tjtk	10000
@@ -85640,6 +85660,7 @@ sort: by_weight
 言过其实	yfap	10000
 庄子	yfbb	10000
 读取	yfbc	10000
+讲出	yfbm	11939
 读出	yfbm	10000
 庄院	yfbp	10000
 毫无逊色	yfbq	10000
@@ -86394,6 +86415,7 @@ sort: by_weight
 就座	yiyw	10000
 就诊	yiyw	9900
 应该	yiyy	10000
+就该	yiyy	9977
 刘	yj	10000
 齐聚	yjbc	10000
 齐耳	yjbg	10000

@@ -120,25 +120,12 @@ sort: by_weight
 # dgbg 「厨卫」，厨房和卫生间的合称。
 # qeuw 「角阀」，阀门的一种。
 # ihlw 「波轮」，波轮洗衣机。
+# xcet 「经用」，经用=耐用。
+# dmrk 「耐操」，耐操本来是正经词，意思是“耐用”、“经用”。
+# dmaj 「耐草」，网络流行用语，场合不同意思不同。
+# fcdj 「零百」，零百加速。
 # 
 ...
-双擎	ccaq	7000
-夜夜笙歌	yyts	7000
-电尾	jnnt	7000
-龟男	qjll	7000
-穷损	pwrk	7000
-冤种	pqtk	7000
-普信	uowy	7000
-代付	wawf	7000
-电竞	jnuk	7000
-矿卡	dyhh	7000
-羊汤	udin	7000
-羊杂	udvs	7000
-红轴	xalm	7000
-青轴	gelm	7000
-布洛芬	diaw	7000
-富士康	pfyv	7000
-###
 节课	abyj	7000
 菜鸡互啄	acgk	7000
 荣辱不惊	adgn	7000
@@ -192,6 +179,7 @@ sort: by_weight
 劲夫	cafw	7000
 马萨诸塞	cayp	7000
 鹬蚌	cbjd	7000
+双擎	ccaq	7000
 双闪	ccuw	7000
 通断	ceon	7000
 台旨	ckxj	7000
@@ -220,11 +208,14 @@ sort: by_weight
 厨卫	dgbg	7000
 犬决	dgun	7000
 破圈	dhlu	7000
+布洛芬	diaw	7000
 大润发	dint	7000
 耗钱	diqg	7000
 大明湖	djid	7000
 三吹六哨	dkuk	7000
 非黑即白	dlvr	7000
+耐草	dmaj	7000
+耐操	dmrk	7000
 布偶	dmwj	7000
 灰鲸	doqg	7000
 大数据	dorn	7000
@@ -237,6 +228,7 @@ sort: by_weight
 春晚	dwjq	7000
 泰迪	dwmp	7000
 碳纤维	dxxw	7000
+矿卡	dyhh	7000
 乳膏	ebyp	7000
 胎压	ecdf	7000
 盈眶	echa	7000
@@ -256,6 +248,7 @@ sort: by_weight
 埃菲尔铁塔	faqf	7000
 霸凌	fauf	7000
 地软	fblq	7000
+零百	fcdj	7000
 喜马拉雅	fcra	7000
 云盘	fcte	7000
 去重	fctg	7000
@@ -299,6 +292,7 @@ sort: by_weight
 玉龙雪山	gdfx	7000
 青萍	geai	7000
 开膛破肚	gede	7000
+青轴	gelm	7000
 青枫	gesm	7000
 天助我也	getb	7000
 五虎	ggha	7000
@@ -385,8 +379,10 @@ sort: by_weight
 晶哥	jjsk	7000
 蝙蝠侠	jjwg	7000
 蛊术	jlsy	7000
+电尾	jnnt	7000
 电桩	jnsy	7000
 电熨斗	jnuf	7000
+电竞	jnuk	7000
 电商	jnum	7000
 颗粒无收	jofn	7000
 蜱虫	jrhn	7000
@@ -520,6 +516,7 @@ sort: by_weight
 家宽	pepa	7000
 寒湿	pfij	7000
 蜜雪冰城	pfuf	7000
+富士康	pfyv	7000
 定速	pggk	7000
 军报	plrb	7000
 冗述	pmsy	7000
@@ -529,6 +526,7 @@ sort: by_weight
 神神叨叨	ppkk	7000
 之久	ppqy	7000
 剜心	pqny	7000
+冤种	pqtk	7000
 宁德	pstf	7000
 宅男	ptll	7000
 宅女	ptvv	7000
@@ -537,6 +535,7 @@ sort: by_weight
 补光	puiq	7000
 裸模	pusa	7000
 实衔	putq	7000
+穷损	pwrk	7000
 神举	pyiw	7000
 神雕	pymf	7000
 神授	pyre	7000
@@ -560,6 +559,7 @@ sort: by_weight
 金海心	qiny	7000
 乐色	qiqc	7000
 乐毅	qiue	7000
+龟男	qjll	7000
 名姬	qkva	7000
 铜盆	qmwv	7000
 饿了	qnbn	7000
@@ -664,6 +664,7 @@ sort: by_weight
 长宽高	tpym	7000
 特氟龙	trdx	7000
 条状	tsud	7000
+自我消化	ttiw	7000
 竹杠	ttsa	7000
 冬枣	tugm	7000
 简中	tukh	7000
@@ -684,8 +685,10 @@ sort: by_weight
 章子怡	ubnc	7000
 羊驼	udcp	7000
 头涡	udik	7000
+羊汤	udin	7000
 养蛊	udjl	7000
 头铁	udqr	7000
+羊杂	udvs	7000
 养娘	udvy	7000
 兰陵	ufbf	7000
 半盔	ufdo	7000
@@ -699,6 +702,7 @@ sort: by_weight
 总群	ukvt	7000
 兽奸	ulvf	7000
 憋坏	umfg	7000
+普信	uowy	7000
 帝师	upjg	7000
 次卧	uqah	7000
 着急忙慌	uqnn	7000
@@ -731,6 +735,7 @@ sort: by_weight
 娘俩	vywg	7000
 代际	wabf	7000
 代孕	waeb	7000
+代付	wawf	7000
 命悬一线	wegx	7000
 任志强	wfxk	7000
 传谣	wfye	7000
@@ -762,7 +767,9 @@ sort: by_weight
 信仰	wywq	7000
 偏低	wywq	6248
 信谣	wyye	7000
+红轴	xalm	7000
 红曲	xama	7000
+经用	xcet	7000
 缅南	xdfm	7000
 缅北	xdux	7000
 疆独	xfqt	7000
@@ -807,3 +814,4 @@ sort: by_weight
 话痨	ytua	7000
 玄烨	yxow	7000
 议罪	yyld	7000
+夜夜笙歌	yyts	7000
