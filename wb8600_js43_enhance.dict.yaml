@@ -467,7 +467,7 @@ sort: by_weight
 # 增加 uqgk 「净事」，北方方言。
 # 增加 ktkt 「咋呼」，北方方言。
 # 增加 thdg 「齁咸」，北方方言。
-# 增加 gaga 「嘎嘎」，东北方言，意思是“非常”。
+# 增加 kdkd 「嘎嘎」，东北方言，意思是“非常”。
 # 增加 rrhp 「白瞎」，东北方言，意思是“浪费、可惜"。
 # 增加 ftae 「老蒯」，东北方言。
 # 增加 kakf 「唠嗑」，东北方言。
@@ -1063,6 +1063,10 @@ sort: by_weight
 # 增加 dgae 「硬菜」
 # 增加 ftdn 「煮成」
 # 增加 rhbb 「牛子」
+# 增加 wmyn 「侧刻」
+# 增加 iaii 「泔水」
+# 增加 oyqn 「炫饭」
+# 增加 khrs 「跟打」
 # 
 # ------------------------------------------
 # 增加的长字成语，大于4字
@@ -26885,6 +26889,7 @@ sort: by_weight
 灌水	iaii	10000
 洪水	iaii	9900
 浇水	iaii	9800
+泔水	iaii	9433
 潆洄	iail	10000
 江油	iaim	10000
 泄漏	iain	10000
@@ -36008,6 +36013,7 @@ sort: by_weight
 蹏	khrm	888
 躓	khrm	888
 中气	khrn	10000
+跟打	khrs	10382
 踢打	khrs	10000
 躈	khrt	888
 趿拉	khru	10000
@@ -47879,6 +47885,7 @@ sort: by_weight
 米铺	oyqg	10000
 米尔	oyqi	10000
 米饭	oyqn	10000
+炫饭	oyqn	9747
 糖瓜	oyrc	10000
 糖罐	oyrm	10000
 炉顶	oysd	10000
@@ -79445,6 +79452,7 @@ sort: by_weight
 催讨	wmyf	10000
 佛山市	wmym	10000
 侧记	wmyn	10000
+侧刻	wmyn	9367
 分崩离析	wmys	10000
 侗族	wmyt	10000
 侧方	wmyy	10000
