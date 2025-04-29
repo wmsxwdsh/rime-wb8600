@@ -749,6 +749,7 @@ sort: by_weight
 # 增加 ddfp 「套壳」「套索」
 # 增加 ipip 「尝尝」「深深」
 # 增加 kwkw 「哔哔」「叭叭」
+# 增加 tfgh 「等下」「靠下」
 # 增加 iapl 「洪荒之力」
 # 增加 aaww 「草菅人命」
 # 增加 gifr 「王婆卖瓜」
@@ -1063,6 +1064,9 @@ sort: by_weight
 # 增加 dgae 「硬菜」
 # 增加 ftdn 「煮成」
 # 增加 rhbb 「牛子」
+#（1）调频 tfhh 「街上」>「行止」>「行」tf 已经出字
+#（2）调频 tfhh 「靠上」
+#（3）最终 tfhh 「街上」>「靠上」>「行止」>「行」tf 已经出字
 # 增加 wmyn 「侧刻」
 # 增加 iaii 「泔水」
 # 增加 oyqn 「炫饭」
@@ -66294,7 +66298,9 @@ sort: by_weight
 簙	tfgf	888
 先王	tfgg	10000
 行政	tfgh	10000
+等下	tfgh	9967
 丢下	tfgh	9900
+靠下	tfgh	9512
 矢志不渝	tfgi	10000
 千载一时	tfgj	10000
 行事	tfgk	10000
@@ -66314,9 +66320,10 @@ sort: by_weight
 徝	tfhg	888
 稙	tfhg	888
 鸻	tfhg	888
-行	tfhh	10000
-街上	tfhh	9900
-行止	tfhh	9800
+街上	tfhh	10000
+靠上	tfhh	9975
+行止	tfhh	9900
+行	tfhh	9800
 衠	tfhh	888
 徒步	tfhi	10000
 选战	tfhk	10000
