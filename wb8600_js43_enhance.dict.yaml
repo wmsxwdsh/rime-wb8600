@@ -1075,6 +1075,8 @@ sort: by_weight
 # 增加 pytr 「福特」
 # 增加 dfeu 「硅胶」
 # 增加 pywg 「礼盒」
+# 增加 whlg 「修车」
+# 增加 rqck 「换台」
 # 
 # ------------------------------------------
 # 增加的长字成语，大于4字
@@ -59209,6 +59211,7 @@ sort: by_weight
 魅	rqci	9900
 魒	rqci	888
 魀	rqcj	888
+换台	rqck	10447
 气象台	rqck	10000
 魍	rqcn	10000
 魐	rqco	888
@@ -78870,6 +78873,7 @@ sort: by_weight
 修史	whkq	10000
 侦听	whkr	10000
 候车	whlg	10000
+修车	whlg	9625
 候驾	whlk	10000
 企图	whlt	10000
 侦办	whlw	10000
