@@ -972,6 +972,7 @@ sort: by_weight
 # 增加 xmgk 「纳豆」，日本的传统食品。
 # 增加 pwpt 「空客」，空中客车。
 # 增加 ihwy 「滤食」，滤食性动物。
+# 增加 kdtf 「顺行」，顺行和逆行。
 # 增加 gqrg 「列兵」，军队最低的军衔。
 # 增加 pyyw 「神谕」，神意，一种占卜的形式。
 # 增加 jqyt 「冕旒」，miǎn liú
@@ -35110,6 +35111,7 @@ sort: by_weight
 顺势	kdrv	10000
 喊醒	kdsg	10000
 顺德	kdtf	10000
+顺行	kdtf	9444
 顺延	kdth	10000
 嚦	kdth	888
 顺利	kdtj	10000
