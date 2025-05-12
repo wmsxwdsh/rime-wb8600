@@ -1069,6 +1069,7 @@ sort: by_weight
 #（1）调频 tfhh 「街上」>「行止」>「行」tf 已经出字
 #（2）调频 tfhh 「靠上」
 #（3）最终 tfhh 「街上」>「靠上」>「行止」>「行」tf 已经出字
+# 增加 itah 「海颐」
 # 增加 wmyn 「侧刻」
 # 增加 iaii 「泔水」
 # 增加 oyqn 「炫饭」
@@ -1080,6 +1081,9 @@ sort: by_weight
 # 增加 whlg 「修车」
 # 增加 rqck 「换台」
 # 增加 aert 「散手」
+# 增加 lkqg 「加钱」
+# 增加 tknu 「和悦」
+# 增加 ipit 「滨海」
 # 
 # ------------------------------------------
 # 增加的长字成语，大于4字
@@ -29738,6 +29742,7 @@ sort: by_weight
 学派	ipir	9900
 沉渣	ipis	10000
 深渊	ipit	10000
+滨海	ipit	9955
 深海	ipit	9900
 泶	ipiu	10000
 渲染	ipiv	10000
@@ -30629,6 +30634,7 @@ sort: by_weight
 海菜	itae	10000
 活靶	itaf	10000
 海葬	itag	10000
+海颐	itah	10815
 海牙	itah	10000
 洚	itah	9900
 浩荡	itai	10000
@@ -39282,6 +39288,7 @@ sort: by_weight
 架空	lkpw	10000
 贺礼	lkpy	10000
 圆角	lkqe	10000
+加钱	lkqg	11985
 加印	lkqg	10000
 回销	lkqi	10000
 回锅	lkqk	10000
@@ -67976,6 +67983,7 @@ sort: by_weight
 积愤	tknf	10000
 种蛋	tknh	10000
 和局	tknn	10000
+和悦	tknu	10299
 积习	tknu	10000
 惒	tknu	888
 各尽	tkny	10000
