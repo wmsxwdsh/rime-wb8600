@@ -751,6 +751,7 @@ sort: by_weight
 # 增加 ipip 「尝尝」「深深」
 # 增加 kwkw 「哔哔」「叭叭」
 # 增加 tfgh 「等下」「靠下」
+# 增加 rcud 「挨着」「反叛」
 # 增加 iapl 「洪荒之力」
 # 增加 aaww 「草菅人命」
 # 增加 gifr 「王婆卖瓜」
@@ -1088,6 +1089,9 @@ sort: by_weight
 # 增加 fwdj 「零百」
 # 增加 txee 「每组」
 # 增加 ffss 「封禁」
+# 增加 euai 「鲁南」
+# 增加 euai 「胶东」
+# 增加 tekk 「盘串」
 # 
 # ------------------------------------------
 # 增加的长字成语，大于4字
@@ -15178,6 +15182,7 @@ sort: by_weight
 胼	euah	10000
 脱落	euai	10000
 受益匪浅	euai	9900
+胶东	euai	9943
 膱	euaj	888
 胖子	eubb	10000
 膀子	eubb	9634
@@ -52022,6 +52027,7 @@ sort: by_weight
 鳍	qgfj	10000
 鲒	qgfk	10000
 鱼雷	qgfl	10000
+鲁南	qgfm	10276
 鲼	qgfm	10000
 鐚	qgfn	888
 鲓	qgfn	888
@@ -56504,6 +56510,8 @@ sort: by_weight
 抬头	rcud	10000
 把关	rcud	9900
 反差	rcud	9800
+挨着	rcud	9666
+反叛	rcud	9555
 反剪	rcue	10000
 挨斗	rcuf	10000
 反美	rcug	10000
@@ -66012,6 +66020,7 @@ sort: by_weight
 盘踞	tekh	10000
 舯	tekh	9900
 舱口	tekk	10000
+盘串	tekk	8234
 船员	tekm	10000
 艥	tekt	888
 艛	tekv	888

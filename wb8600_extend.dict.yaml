@@ -119,6 +119,7 @@ sort: by_weight
 # aqkh 「欧陆」，欧陆词典的简称。
 # aqkh 「电尾」，电动尾门的简称。
 # thke 「自吸」，自燃吸气的简称。
+# tlru 「粤拼」，粤语拼音的简称。
 # dgbg 「厨卫」，厨房和卫生间的合称。
 # qeuw 「角阀」，阀门的一种。
 # ihlw 「波轮」，波轮洗衣机。
@@ -130,6 +131,9 @@ sort: by_weight
 # 
 ...
 沫子	igbb	7000
+粤拼	tlru	7000
+胶辽	eubp	7000
+光伏	iqwd	7000
 为嘛	ylky	7000
 丰金	dhqq	7000
 宁海	psit	7000
