@@ -567,6 +567,7 @@ sort: by_weight
 # >>> 调频 rwfc 「失去」>「推动」
 # >>> 调频 rrfh 「抓起」>「掀起」
 # >>> 调频 tlyg 「粤语」>「务请」
+# >>> 调频 tdkh 「知足」>「适中」
 # >>> 调频 wwwu 「人们」>「价位」>「众」www 已经出字。
 # >>> 调频 iyjh 「流畅」>「浏」>「济」iyj 已经出字。
 # >>> 调频 dprh 「牵扯」>「牵」dpr 已经出字。
@@ -978,6 +979,7 @@ sort: by_weight
 # 增加 pwpt 「空客」，空中客车。
 # 增加 ihwy 「滤食」，滤食性动物。
 # 增加 kdtf 「顺行」，顺行和逆行。
+# 增加 ujll 「单男」，单身的男性。
 # 增加 gqrg 「列兵」，军队最低的军衔。
 # 增加 pyyw 「神谕」，神意，一种占卜的形式。
 # 增加 jqyt 「冕旒」，miǎn liú
@@ -1093,6 +1095,8 @@ sort: by_weight
 # 增加 txee 「每组」
 # 增加 ffss 「封禁」
 # 增加 tekk 「盘串」
+# 增加 xwyg 「维语」
+# 增加 xwyg 「雪莲」
 # 
 # ------------------------------------------
 # 增加的长字成语，大于4字
@@ -19770,6 +19774,7 @@ sort: by_weight
 雪鞋	fvaf	10000
 雪莱	fvag	10000
 雪茄	fval	10000
+雪莲	fval	10000
 老奸巨猾	fvaq	10000
 雪花	fvaw	10000
 雪耻	fvbh	10000
@@ -65682,8 +65687,8 @@ sort: by_weight
 呑	tdkf	888
 知	tdkg	10000
 辞呈	tdkg	9900
-适中	tdkh	10000
-知足	tdkh	9900
+知足	tdkh	10000
+适中	tdkh	9900
 短路	tdkh	9800
 智	tdkj	10000
 甜品	tdkk	10000
@@ -72490,6 +72495,7 @@ sort: by_weight
 单架	ujlk	10736
 章回	ujlk	10000
 童男	ujll	10000
+单男	ujll	9999
 意思	ujln	10000
 竟连	ujlp	10000
 意图	ujlt	10000
@@ -84650,6 +84656,7 @@ sort: by_weight
 维度	xwya	10000
 紷	xwyc	888
 维	xwyg	10000
+维语	xwyg	9775
 維	xwyg	888
 绘就	xwyi	10000
 紟	xwyn	888
