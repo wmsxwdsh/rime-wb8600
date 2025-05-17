@@ -579,6 +579,7 @@ sort: by_weight
 # >>> 调频 sgjg 「桓」>「醒」sgj 已经出字。删除「酌量」，太不常用了。
 # >>> 调频 ukqb 「竞」>「兑」，删除「兗」，太不常用了。
 # >>> 调频 rufh 「抖」>「拌」
+# >>> 调频 ywwf 「座」>「卒」
 # 增加 inkh 「烫嘴」「漏嘴」
 # 增加 ywww 「认怂」「讹人」
 # 增加 ihww 「小人」「小众」
@@ -733,6 +734,7 @@ sort: by_weight
 # 增加 khga 「踢开」
 # 增加 iqrn 「光气」，无色有毒气体，光体在一战被用作化学武器。
 # 增加 fkmw 「甏肉」bèng，山东省济宁市的知名小吃。
+# 增加 lfqk 「轩逸」「Sylphy」，日产轩逸。
 # 增加 dypf 「戍守」「太守」，太守是古代的官职。
 # 增加 mwud 「内卷」「内着」，内着 zhuó 是内衣的别称。
 # 增加 iakh 「满嘴」「满遗」
@@ -1096,8 +1098,16 @@ sort: by_weight
 # 增加 ffss 「封禁」
 # 增加 tekk 「盘串」
 # 增加 xwyg 「维语」
-# 增加 xwyg 「雪莲」
-# 
+# 增加 fval 「雪莲」
+# 增加 xvth 「绿牌」
+# 增加 khpw 「中空」
+# 增加 khmq 「中网」
+# 增加 rnlt 「扭力」
+# 增加 oukh 「烂路」
+# 增加 rukh 「拦路」
+# 增加 awwg 「花盒」
+# 增加 wxpw 「化鹤」
+#
 # ------------------------------------------
 # 增加的长字成语，大于4字
 # 增加 mqst 「网桥」「贝尔格莱德」，塞尔维亚的首都。
@@ -1117,7 +1127,7 @@ sort: by_weight
 # 增加 iqdm 「𫖯」，「頫」的简体字，𫖯 扩展C U+2B5AF
 # >>> 另外，原「国标码 私用区」的字全部更换成「CJK 对应的字」。
 # >>> 一共 80 个。
-# 
+#
 # ------------------------------------------
 # 五笔的重码重灾区，重新整理。
 # qtqt
@@ -5291,6 +5301,7 @@ sort: by_weight
 共创	awwb	10000
 茶会	awwf	10000
 莝	awwf	888
+花盒	awwg	10339
 花剑	awwg	10000
 葅	awwg	888
 鹀	awwg	888
@@ -35953,6 +35964,7 @@ sort: by_weight
 跟风	khmq	10000
 中风	khmq	9900
 足见	khmq	9800
+中网	khmq	9245
 跺	khms	10000
 遗赠	khmu	10000
 忠	khn	10000
@@ -36007,6 +36019,7 @@ sort: by_weight
 贵客	khpt	9900
 忠实	khpu	10000
 踏实	khpu	9900
+中空	khpw	11635
 遗容	khpw	10000
 跎	khpx	10000
 遗祸	khpy	10000
@@ -38586,6 +38599,8 @@ sort: by_weight
 署名	lfqk	10000
 罢免	lfqk	9900
 黑锅	lfqk	9800
+轩逸	lfqk	9555
+Sylphy	lfqk	9444
 黑金	lfqq	10000
 黑铁	lfqr	10000
 围猎	lfqt	10000
@@ -40076,6 +40091,7 @@ sort: by_weight
 辂	ltkg	9900
 輅	ltkg	888
 图中	ltkh	10000
+轿跑	ltkh	9743
 轿车	ltlg	10000
 略加	ltlk	10000
 力图	ltlt	10000
@@ -47642,6 +47658,7 @@ sort: by_weight
 焙	ouk	10000
 焙	oukg	10000
 料中	oukh	10000
+烂路	oukh	10000
 料器	oukk	10000
 料车	oulg	10000
 熷	oulj	888
@@ -58747,6 +58764,7 @@ sort: by_weight
 掉以轻心	rnln	10000
 所辖	rnlp	10000
 气力	rnlt	10000
+扭力	rnlt	9872
 拟办	rnlw	10000
 所累	rnlx	10000
 氙	rnm	10000
@@ -60413,6 +60431,7 @@ sort: by_weight
 拉顺	rukd	10000
 掊	rukg	10000
 拌嘴	rukh	10000
+拦路	rukh	9775
 接口	rukk	10000
 扩音器	rukk	9900
 投递员	rukm	10000
@@ -81595,6 +81614,7 @@ sort: by_weight
 人给家足	wxpk	10000
 父母官	wxpn	10000
 化之	wxpp	10000
+化鹤	wxpw	11234
 华容	wxpw	10000
 佛祖	wxpy	10000
 华氏	wxqa	10000
@@ -84507,6 +84527,7 @@ sort: by_weight
 绿林	xvss	10000
 绿毛	xvtf	10000
 纪录片	xvth	10000
+绿牌	xvth	9943
 匘	xvtq	888
 绿竹	xvtt	10000
 绿篱	xvty	10000
@@ -89278,8 +89299,8 @@ sort: by_weight
 主人公	ywwc	10000
 主人翁	ywwc	9900
 膺	ywwe	10000
-卒	ywwf	10000
-座	ywwf	9900
+座	ywwf	10000
+卒	ywwf	9900
 鹰	ywwg	10000
 认命	ywwg	9900
 谶	ywwg	9800
