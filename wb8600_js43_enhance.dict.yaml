@@ -69,6 +69,7 @@ sort: by_weight
 # 增加 qtdx 「独龙」，恐龙的一种。
 # 增加 qtee 「獬豸」，中国传说中的神兽。
 # 增加 temm 「盘山」，天津的名山。
+# 增加 amaw 「黄芩」，一种中药植物。
 # 增加 iyfh 「游走」「流走」「梁启超」
 # 增加 lgbw 「车险」
 # 增加 lgdc 「车友」
@@ -127,6 +128,7 @@ sort: by_weight
 # 增加 qyyo 「遛弯」
 # 增加 rcir 「反派」
 # 增加 cqsg 「鸡西」，黑龙江省下辖的地级市。
+# 增加 pgga 「宣武」，北京市的旧区，2010年和西城区合并。
 # 增加 ceyt 「通州」，北京市下辖的一个区。
 # 增加 itip 「海淀」，北京市下辖的一个区。
 # 增加 uytf 「闵行」háng，上海市下辖的一个区。
@@ -555,7 +557,6 @@ sort: by_weight
 # >>> 调频 qnad 「馍」>「馆藏」「包藏」
 # >>> 调频 nygc 「迟到」>「以致」「以至」
 # >>> 调频 qnud 「馒头」>「饲养」「包头」
-# >>> 调频 fhwy 「赶集」>「真伪」
 # >>> 调频 khud 「噱头」>「遣送」
 # >>> 调频 kfkf 「喷嚏」>「喃喃」
 # >>> 调频 ynng 「永恒」>「房屋」
@@ -988,8 +989,13 @@ sort: by_weight
 # 增加 thpg 「处室」，处级的机构，对应「科室」。
 # 增加 rpyg 「控评」，控制评论的简称。
 # 增加 ceet 「通胀」，通货膨胀的简称。
+# 增加 yyir 「广汽」，广汽集团的简称。
+# 增加 ggir 「一汽」，一汽集团的简称。
 # 增加 voiq 「灵耀」，华硕的灵耀。
 # 增加 gdtf 「天选」，华硕的天选。
+#（1）调频 fhwy 「赶集」>「真伪」
+#（2）增加 fhwy 「起售」
+#（3）最终 fhwy 「赶集」>「起售」>「真伪」
 # 增加 mqwf 「网传」
 # 增加 udyg 「差评」
 # 增加 gufw 「平替」
@@ -1107,6 +1113,12 @@ sort: by_weight
 # 增加 rukh 「拦路」
 # 增加 awwg 「花盒」
 # 增加 wxpw 「化鹤」
+# 增加 aduj 「其间」
+# 增加 rqgq 「抱死」
+# 增加 pdyy 「宠文」
+# 增加 dqyy 「爽文」
+# 增加 lgwh 「车企」
+# 增加 isdm 「漆面」
 #
 # ------------------------------------------
 # 增加的长字成语，大于4字
@@ -1871,6 +1883,7 @@ sort: by_weight
 苦辣	adug	10000
 基站	aduh	10000
 期间	aduj	10000
+其间	aduj	9827
 基部	aduk	10000
 苦闷	adun	10000
 其次	aduq	10000
@@ -3524,6 +3537,7 @@ sort: by_weight
 黄莺	amap	10000
 黄芪	amaq	10000
 黄花	amaw	10000
+黄芩	amaw	9872
 芁	amb	888
 黄了	ambn	10000
 芟除	ambw	10000
@@ -12495,6 +12509,7 @@ sort: by_weight
 确认	dqyw	10000
 确诊	dqyw	9900
 达尔文	dqyy	10000
+爽文	dqyy	9777
 镹	dqyy	888
 原	dr	10000
 达拉斯	drad	10000
@@ -17284,6 +17299,7 @@ sort: by_weight
 起价	fhww	9800
 真货	fhwx	10000
 赶集	fhwy	10000
+起售	fhwy	9935
 真伪	fhwy	9900
 埧	fhwy	888
 趡	fhwy	888
@@ -21453,6 +21469,7 @@ sort: by_weight
 一堂	ggip	10000
 一溜	ggiq	10000
 一派	ggir	10000
+一汽	ggir	9827
 一潭	ggis	10000
 一省	ggit	10000
 一滴	ggiu	10000
@@ -30472,6 +30489,7 @@ sort: by_weight
 酒友	isdc	10000
 酒厂	isdg	10000
 洛杉矶	isdm	10000
+漆面	isdm	9346
 海枯石烂	isdo	10000
 酒肆	isdv	10000
 河豚	isee	10000
@@ -38972,6 +38990,7 @@ Sylphy	lfqk	9444
 国会	lgwf	10000
 国债	lgwg	10000
 国企	lgwh	10000
+车企	lgwh	9952
 辅修	lgwh	9900
 力不从心	lgwn	10000
 国父	lgwq	10000
@@ -48290,6 +48309,7 @@ Sylphy	lfqk	9444
 豁朗	pdyv	10000
 宏论	pdyw	10000
 寡言	pdyy	10000
+宠文	pdyy	9827
 家	pe	10000
 农工	peaa	10000
 家臣	peah	10000
@@ -48675,6 +48695,7 @@ Sylphy	lfqk	9444
 定规	pgfw	10000
 定型	pgga	10000
 定形	pgga	9900
+宣武	pgga	9889
 写到	pggc	10000
 定于	pggf	10000
 富于	pggf	9900
@@ -59313,6 +59334,7 @@ Sylphy	lfqk	9444
 换来	rqgo	10000
 掐灭	rqgo	9956
 抵死	rqgq	10000
+抱死	rqgq	9647
 拖儿带女	rqgv	10000
 换班	rqgy	10000
 抑止	rqhh	10000
@@ -89549,6 +89571,7 @@ Sylphy	lfqk	9444
 言谈举止	yyih	10000
 高高兴兴	yyii	10000
 文学	yyip	10000
+广汽	yyir	10234
 翩翩少年	yyir	10000
 广泛	yyit	10000
 该当	yyiv	10000
