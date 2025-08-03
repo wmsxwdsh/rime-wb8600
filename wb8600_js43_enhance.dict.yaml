@@ -553,6 +553,7 @@ sort: by_weight
 # >>> 调频 ipgh 「淀」>「党政」
 # >>> 调频 ifhw 「滇」>「洁具」
 # >>> 调频 kham 「唬」>「中英」
+# >>> 调频 afwt 「菱」>「著作」
 # >>> 调频 rtfj 「卑」>「挺进」「插进」
 # >>> 调频 qnad 「馍」>「馆藏」「包藏」
 # >>> 调频 nygc 「迟到」>「以致」「以至」
@@ -756,6 +757,7 @@ sort: by_weight
 # 增加 kwkw 「哔哔」「叭叭」
 # 增加 tfgh 「等下」「靠下」
 # 增加 rcud 「挨着」「反叛」
+# 增加 rukh 「拦路」「拉胯」
 # 增加 iapl 「洪荒之力」
 # 增加 aaww 「草菅人命」
 # 增加 gifr 「王婆卖瓜」
@@ -989,6 +991,7 @@ sort: by_weight
 # 增加 thpg 「处室」，处级的机构，对应「科室」。
 # 增加 rpyg 「控评」，控制评论的简称。
 # 增加 ceet 「通胀」，通货膨胀的简称。
+# 增加 khvf 「中建」，中建集团的简称。
 # 增加 yyir 「广汽」，广汽集团的简称。
 # 增加 ggir 「一汽」，一汽集团的简称。
 # 增加 voiq 「灵耀」，华硕的灵耀。
@@ -1080,6 +1083,7 @@ sort: by_weight
 # 增加 dgae 「硬菜」
 # 增加 ftdn 「煮成」
 # 增加 rhbb 「牛子」
+# 增加 gmud 「刺头」
 #（1）调频 tfhh 「街上」>「行止」>「行」tf 已经出字
 #（2）调频 tfhh 「靠上」
 #（3）最终 tfhh 「街上」>「靠上」>「行止」>「行」tf 已经出字
@@ -1110,7 +1114,6 @@ sort: by_weight
 # 增加 khmq 「中网」
 # 增加 rnlt 「扭力」
 # 增加 oukh 「烂路」
-# 增加 rukh 「拦路」
 # 增加 awwg 「花盒」
 # 增加 wxpw 「化鹤」
 # 增加 aduj 「其间」
@@ -1119,6 +1122,15 @@ sort: by_weight
 # 增加 dqyy 「爽文」
 # 增加 lgwh 「车企」
 # 增加 isdm 「漆面」
+# 增加 agaw 「荆芥」
+# 增加 wdrm 「优缺」
+# 增加 sakh 「横跳」
+# 增加 tote 「翻盘」
+# 增加 fnqg 「亏钱」
+# 增加 mqlg 「购车」
+# 增加 rtjn 「插电」
+# 增加 wuyx 「倍率」
+# 增加 ftrg 「教皇」
 #
 # ------------------------------------------
 # 增加的长字成语，大于4字
@@ -1247,8 +1259,7 @@ sort: by_weight
 # 践踏，极点五笔只给出了 kgki -- 我补充了常规编码
 # 蹉跎，极点五笔只给出了 kukp -- 我补充了常规编码
 # 蹂躏，极点五笔只给出了 kcka -- 我补充了常规编码
-# 蹒跚，极点五笔只给出了 kakm -- 我补充了常规编码
-# 蹒跚，极点五笔只给出了 kakm -- 我补充了常规编码
+# 踌躇，极点五笔只给出了 kdka -- 我补充了常规编码
 # 参照此规则，我完善了：蹦跶、蹁跹、踉跄。
 ####
 # 调整之后，khkh 的候选顺序，如下。
@@ -1258,11 +1269,12 @@ sort: by_weight
 # 踊跃	khkh	9800
 # 践踏	khkh	9777
 # 蹉跎	khkh	9755
-# 蹦跶	khkh	8699
-# 蹂躏	khkh	8677
-# 蹒跚	khkh	8655
-# 蹁跹	khkh	8633
-# 踉跄	khkh	8611
+# 蹦跶	khkh	9299
+# 蹂躏	khkh	9277
+# 蹒跚	khkh	9255
+# 踌躇	khkh	9233
+# 蹁跹	khkh	9211
+# 踉跄	khkh	8699
 # 踀	khkh	888
 # 如果你之前已经熟悉了极点五笔的优化重码规则，把 k 当 “足”，那更好。
 # 按此规则打词，几乎无重码。
@@ -2406,8 +2418,8 @@ sort: by_weight
 鞭	afwq	10000
 某件	afwr	10000
 甘休	afws	10000
-著作	afwt	10000
-菱	afwt	9900
+菱	afwt	10000
+著作	afwt	9900
 芙	afwu	10000
 某位	afwu	9900
 某人	afww	10000
@@ -2442,6 +2454,7 @@ sort: by_weight
 巧匠	agar	10000
 茉莉	agat	10000
 莱切	agav	10000
+荆芥	agaw	10734
 荆花	agaw	10000
 邼	agbh	888
 萅	agbj	888
@@ -5197,6 +5210,7 @@ sort: by_weight
 巷	awnb	9900
 共居	awnd	10000
 葔	awnd	888
+蔡司	awng	10763
 孽情	awng	10000
 蒒	awnh	888
 蘬	awnh	888
@@ -18392,6 +18406,7 @@ sort: by_weight
 亏空	fnpw	10000
 违心之论	fnpy	10000
 声色	fnqc	10000
+亏钱	fnqg	10234
 朝发夕至	fnqg	10000
 场外	fnqh	10000
 声乐	fnqi	10000
@@ -19468,6 +19483,7 @@ sort: by_weight
 教授	ftre	10000
 老挝	ftrf	10000
 老兵	ftrg	10000
+教皇	ftrg	9547
 老年	ftrh	10000
 老抽	ftrm	10000
 才气	ftrn	10000
@@ -23187,6 +23203,7 @@ sort: by_weight
 刺痛	gmuc	10000
 现状	gmud	10000
 两头	gmud	9900
+刺头	gmud	9548
 两半	gmuf	10000
 两间	gmuj	10000
 现况	gmuk	10000
@@ -35934,11 +35951,12 @@ sort: by_weight
 踊跃	khkh	9800
 践踏	khkh	9777
 蹉跎	khkh	9755
-蹦跶	khkh	8699
-蹂躏	khkh	8677
-蹒跚	khkh	8655
-蹁跹	khkh	8633
-踉跄	khkh	8611
+蹦跶	khkh	9299
+蹂躏	khkh	9277
+蹒跚	khkh	9255
+踌躇	khkh	9233
+蹁跹	khkh	9211
+踉跄	khkh	8699
 踀	khkh	888
 路口	khkk	10000
 蹪	khkm	888
@@ -36199,6 +36217,7 @@ sort: by_weight
 跟	khv	10000
 跟	khve	10000
 遗孀	khvf	10000
+中建	khvf	9823
 忠恕	khvk	10000
 贵妃	khvn	10000
 躐	khvn	9900
@@ -42178,6 +42197,7 @@ Sylphy	lfqk	9444
 见轻	mqlc	10000
 见罪	mqld	10000
 购置	mqlf	10000
+购车	mqlg	10324
 风车	mqlg	10000
 购回	mqlk	10000
 飔	mqln	888
@@ -60144,6 +60164,7 @@ Sylphy	lfqk	9444
 手紧	rtjc	10000
 手里	rtjf	10000
 播映	rtjm	10000
+插电	rtjn	10323
 手电	rtjn	10000
 氟利昂	rtjq	10000
 摥	rtjr	888
@@ -60454,6 +60475,7 @@ Sylphy	lfqk	9444
 掊	rukg	10000
 拌嘴	rukh	10000
 拦路	rukh	9775
+拉胯	rukh	9463
 接口	rukk	10000
 扩音器	rukk	9900
 投递员	rukm	10000
@@ -61688,6 +61710,7 @@ Sylphy	lfqk	9444
 槿	sakg	10000
 棫	sakg	888
 横跨	sakh	10000
+横跳	sakh	9579
 樞	sakk	888
 櫃	sakm	888
 欟	sakq	888
@@ -68845,6 +68868,7 @@ Sylphy	lfqk	9444
 翻检	tosw	10000
 秋季	totb	10000
 翻船	tote	10000
+翻盘	tote	9983
 秋千	totf	10000
 翻版	toth	10000
 翻身	totm	10000
@@ -77913,6 +77937,7 @@ Sylphy	lfqk	9444
 伏兵	wdrg	10000
 傆	wdri	888
 做操	wdrk	10000
+优缺	wdrm	11232
 公有制	wdrm	10000
 做鬼	wdrq	10000
 优势	wdrv	10000
@@ -80906,6 +80931,7 @@ Sylphy	lfqk	9444
 俯首就擒	wuyr	10000
 伴郎	wuyv	10000
 分辨率	wuyx	10000
+倍率	wuyx	9785
 人道主义	wuyy	10000
 分	wv	10000
 分工	wvaa	10000
