@@ -1131,6 +1131,9 @@ sort: by_weight
 # 增加 rtjn 「插电」
 # 增加 wuyx 「倍率」
 # 增加 ftrg 「教皇」
+# 增加 tmny 「向心」
+# 增加 dfdq 「夸克」
+# >>> 删除 tudi 「冬耕」，太不常用了。
 #
 # ------------------------------------------
 # 增加的长字成语，大于4字
@@ -10398,6 +10401,7 @@ sort: by_weight
 辰砂	dfdi	10000
 礝	dfdj	888
 雄才大略	dfdl	10000
+夸克	dfdq	10234
 有声有色	dfdq	10000
 大吉大利	dfdt	10000
 三十而立	dfdu	10000
@@ -56800,6 +56804,7 @@ Sylphy	lfqk	9444
 拓扑	rdrh	9800
 排挡	rdri	10000
 挑三拣四	rdrl	10000
+拔罐	rdrm	11599
 所有制	rdrm	10000
 排气	rdrn	10000
 撩拨	rdrn	9900
@@ -68526,6 +68531,7 @@ Sylphy	lfqk	9444
 毛骨悚然	tmnq	10000
 秃发	tmnt	10000
 身心	tmny	10000
+向心	tmny	9977
 奥	tmo	10000
 奥	tmod	10000
 射精	tmog	10000
@@ -69876,7 +69882,7 @@ Sylphy	lfqk	9444
 千姿百态	tudd	10000
 科研	tudg	10000
 徉	tudh	10000
-冬耕	tudi	10000
+# 冬耕	tudi	10000
 千差万别	tudk	10000
 简历	tudl	10000
 积善成德	tudt	10000
